@@ -1,0 +1,563 @@
+Team,Date,Opponent,Venue,Round,GF,GA,xG,npxG,G-xG,np:G-xG,Sh,SoT,SoT%,G/Sh,G/SoT,Goal Diff,xG Overperformance,Result Category,Finishing Efficiency,Clutch xG
+Manchester Utd,2024-08-16,Fulham,Home,Matchweek 1,1,0,2.4,2.4,-1.4,-1.4,14,5,35.7,0.07,0.2,1,-1.4,Win,2.499,0
+PSG,2024-08-16,Le Havre,Away,Matchweek 1,4,1,2.9,2.1,1.1,0.9,14,8,57.1,0.21,0.38,3,1.1,Win,11.991,1.1
+Liverpool,2024-08-17,Ipswich Town,Away,Matchweek 1,2,0,2.6,2.6,-0.6,-0.6,18,5,27.8,0.11,0.4,2,-0.6,Win,3.058,0
+Arsenal,2024-08-17,Wolves,Home,Matchweek 1,2,0,1.2,1.2,0.8,0.8,18,6,33.3,0.11,0.33,2,0.8,Win,3.663,0.8
+Milan,2024-08-17,Torino,Home,Matchweek 1,2,2,2.1,2.1,-0.1,-0.1,26,5,19.2,0.08,0.4,0,-0.1,Draw,1.536,0
+Barcelona,2024-08-17,Valencia,Away,Matchweek 1,2,1,3.2,2.4,-1.2,-1.4,17,5,29.4,0.06,0.2,1,-1.2,Win,1.764,0
+Inter,2024-08-17,Genoa,Away,Matchweek 1,2,2,1.9,1.9,0.1,0.1,17,7,41.2,0.12,0.29,0,0.1,Draw,4.944,0
+Chelsea,2024-08-18,Manchester City,Home,Matchweek 1,0,2,1,1,-1,-1,10,3,30,0,0,-2,-1,Loss,0,0
+Real Madrid,2024-08-18,Mallorca,Away,Matchweek 1,1,1,0.6,0.6,0.4,0.4,13,5,38.5,0.08,0.2,0,0.4,Draw,3.08,0
+Manchester City,2024-08-18,Chelsea,Away,Matchweek 1,2,0,0.8,0.8,1.2,1.2,11,5,45.5,0.18,0.4,2,1.2,Win,8.19,1.2
+Napoli,2024-08-18,Hellas Verona,Away,Matchweek 1,0,3,1,1,-1,-1,14,4,28.6,0,0,-3,-1,Loss,0,0
+Tottenham,2024-08-19,Leicester City,Away,Matchweek 1,1,1,1.2,1.2,-0.2,-0.2,15,6,40,0.07,0.17,0,-0.2,Draw,2.8,0
+Atletico Madrid,2024-08-19,Villarreal,Away,Matchweek 1,2,2,1.1,1.1,0.9,0.9,9,4,44.4,0.22,0.5,0,0.9,Draw,9.768,0
+Juventus,2024-08-19,Como,Home,Matchweek 1,3,0,1.2,1.2,1.8,1.8,13,6,46.2,0.23,0.5,3,1.8,Win,10.626,1.8
+PSG,2024-08-23,Montpellier,Home,Matchweek 2,6,0,3.8,3.8,2.2,2.2,27,11,40.7,0.22,0.55,6,2.2,Win,8.954,2.2
+Inter,2024-08-24,Lecce,Home,Matchweek 2,2,0,2.4,1.6,-0.4,-0.6,10,2,20,0.1,0.5,2,-0.4,Win,2,0
+Manchester City,2024-08-24,Ipswich Town,Home,Matchweek 2,4,1,3.3,2.6,0.7,0.4,13,4,30.8,0.23,0.75,3,0.7,Win,7.084,0.7
+Milan,2024-08-24,Parma,Away,Matchweek 2,1,2,1.9,1.9,-0.9,-0.9,17,5,29.4,0.06,0.2,-1,-0.9,Loss,1.764,0
+Barcelona,2024-08-24,Athletic Club,Home,Matchweek 2,2,1,1.8,1.8,0.2,0.2,13,5,38.5,0.15,0.4,1,0.2,Win,5.775,0.2
+Manchester Utd,2024-08-24,Brighton,Away,Matchweek 2,1,2,1.4,1.4,-0.4,-0.4,11,3,27.3,0.09,0.33,-1,-0.4,Loss,2.457,0
+Tottenham,2024-08-24,Everton,Home,Matchweek 2,4,0,2.4,2.4,1.6,1.6,13,7,53.8,0.31,0.57,4,1.6,Win,16.678,1.6
+Arsenal,2024-08-24,Aston Villa,Away,Matchweek 2,2,0,0.9,0.9,1.1,1.1,9,4,44.4,0.22,0.5,2,1.1,Win,9.768,1.1
+Atletico Madrid,2024-08-25,Girona,Home,Matchweek 2,3,0,1.2,1.2,1.8,1.8,11,6,54.5,0.27,0.5,3,1.8,Win,14.715,1.8
+Real Madrid,2024-08-25,Valladolid,Home,Matchweek 2,3,0,2.1,2.1,0.9,0.9,17,9,52.9,0.18,0.33,3,0.9,Win,9.522,0.9
+Chelsea,2024-08-25,Wolves,Away,Matchweek 2,6,2,1.6,1.6,4.4,4.4,14,8,57.1,0.43,0.75,4,4.4,Win,24.553,4.4
+Napoli,2024-08-25,Bologna,Home,Matchweek 2,3,0,2.5,2.5,0.5,0.5,16,5,31.3,0.19,0.6,3,0.5,Win,5.947,0.5
+Liverpool,2024-08-25,Brentford,Home,Matchweek 2,2,0,2.5,2.5,-0.5,-0.5,19,8,42.1,0.11,0.25,2,-0.5,Win,4.631,0
+Bayern Munich,2024-08-25,Wolfsburg,Away,Matchweek 1,3,2,2.4,2.4,-0.4,-0.4,15,8,53.3,0.13,0.25,1,0.6,Win,6.929,0.6
+Juventus,2024-08-26,Hellas Verona,Away,Matchweek 2,3,0,1.2,0.4,1.8,1.6,7,4,57.1,0.29,0.5,3,1.8,Win,16.559,1.8
+Barcelona,2024-08-27,Rayo Vallecano,Away,Matchweek 3,2,1,1.4,1.4,0.6,0.6,22,5,22.7,0.09,0.4,1,0.6,Win,2.043,0.6
+Atletico Madrid,2024-08-28,Espanyol,Home,Matchweek 3,0,0,2.3,2.3,-2.3,-2.3,25,7,28,0,0,0,-2.3,Draw,0,0
+Real Madrid,2024-08-29,Las Palmas,Away,Matchweek 3,1,1,2.5,2.1,-1.5,-2.1,24,7,29.2,0,0,0,-1.5,Draw,0,0
+Inter,2024-08-30,Atalanta,Home,Matchweek 3,4,0,1.3,1.3,1.7,1.7,13,4,30.8,0.23,0.75,4,2.7,Win,7.084,2.7
+Milan,2024-08-31,Lazio,Away,Matchweek 3,2,2,1.3,1.3,0.7,0.7,10,4,40,0.2,0.5,0,0.7,Draw,8,0
+Napoli,2024-08-31,Parma,Home,Matchweek 3,2,1,2.2,2.2,-0.2,-0.2,29,7,24.1,0.07,0.29,1,-0.2,Win,1.687,0
+Atletico Madrid,2024-08-31,Athletic Club,Away,Matchweek 4,1,0,1.7,1.7,-0.7,-0.7,9,2,22.2,0.11,0.5,1,-0.7,Win,2.442,0
+Manchester City,2024-08-31,West Ham,Away,Matchweek 3,3,1,3,3,0,0,23,8,34.8,0.13,0.38,2,0,Win,4.524,0
+Arsenal,2024-08-31,Brighton,Home,Matchweek 3,1,1,2.1,2.1,-1.1,-1.1,11,7,63.6,0.09,0.14,0,-1.1,Draw,5.724,0
+Barcelona,2024-08-31,Valladolid,Home,Matchweek 4,7,0,4.7,4.7,2.3,2.3,23,11,47.8,0.3,0.64,7,2.3,Win,14.34,2.3
+Chelsea,2024-09-01,Crystal Palace,Home,Matchweek 3,1,1,2.4,2.4,-1.4,-1.4,13,7,53.8,0.08,0.14,0,-1.4,Draw,4.304,0
+PSG,2024-09-01,Lille,Away,Matchweek 3,3,1,2.6,1.8,0.4,0.2,10,6,60,0.2,0.33,2,0.4,Win,12,0.4
+Tottenham,2024-09-01,Newcastle Utd,Away,Matchweek 3,1,2,1.2,1.2,-1.2,-1.2,20,6,30,0,0,-1,-0.2,Loss,0,0
+Bayern Munich,2024-09-01,Freiburg,Home,Matchweek 2,2,0,1.5,0.8,0.5,0.2,11,2,18.2,0.09,0.5,2,0.5,Win,1.638,0.5
+Manchester Utd,2024-09-01,Liverpool,Home,Matchweek 3,0,3,1.4,1.4,-1.4,-1.4,8,3,37.5,0,0,-3,-1.4,Loss,0,0
+Liverpool,2024-09-01,Manchester Utd,Away,Matchweek 3,3,0,1.8,1.8,1.2,1.2,11,3,27.3,0.27,1,3,1.2,Win,7.371,1.2
+Juventus,2024-09-01,Roma,Home,Matchweek 3,0,0,0.5,0.5,-0.5,-0.5,8,1,12.5,0,0,0,-0.5,Draw,0,0
+Real Madrid,2024-09-01,Betis,Home,Matchweek 4,2,0,2.4,1.7,-0.4,-0.7,21,6,28.6,0.05,0.17,2,-0.4,Win,1.43,0
+Chelsea,2024-09-14,Bournemouth,Away,Matchweek 4,1,0,0.8,0.8,0.2,0.2,10,3,30,0.1,0.33,1,0.2,Win,3,0.2
+Milan,2024-09-14,Venezia,Home,Matchweek 4,4,0,2.2,0.7,1.8,1.3,10,6,60,0.2,0.33,4,1.8,Win,12,1.8
+PSG,2024-09-14,Brest,Home,Matchweek 4,3,1,2.8,2.8,0.2,0.2,22,9,40.9,0.14,0.33,2,0.2,Win,5.726,0.2
+Liverpool,2024-09-14,Nott'ham Forest,Home,Matchweek 4,0,1,0.9,0.9,-0.9,-0.9,14,5,35.7,0,0,-1,-0.9,Loss,0,0
+Juventus,2024-09-14,Empoli,Away,Matchweek 4,0,0,0.9,0.9,-0.9,-0.9,15,3,20,0,0,0,-0.9,Draw,0,0
+Real Madrid,2024-09-14,Real Sociedad,Away,Matchweek 5,2,0,2.3,0.8,-0.3,-0.8,14,4,28.6,0,0,2,-0.3,Win,0,0
+Manchester Utd,2024-09-14,Southampton,Away,Matchweek 4,3,0,2.6,2.6,0.4,0.4,20,10,50,0.15,0.3,3,0.4,Win,7.5,0.4
+Bayern Munich,2024-09-14,Holstein Kiel,Away,Matchweek 3,6,1,3.2,2.4,1.8,1.6,22,11,50,0.18,0.36,5,2.8,Win,9,2.8
+Manchester City,2024-09-14,Brentford,Home,Matchweek 4,2,1,2.1,2.1,-0.1,-0.1,18,7,38.9,0.11,0.29,1,-0.1,Win,4.279,0
+Inter,2024-09-15,Monza,Away,Matchweek 4,1,1,1.7,1.7,-0.7,-0.7,16,2,12.5,0.06,0.5,0,-0.7,Draw,0.75,0
+Tottenham,2024-09-15,Arsenal,Home,Matchweek 4,0,1,0.7,0.7,-0.7,-0.7,15,5,33.3,0,0,-1,-0.7,Loss,0,0
+Napoli,2024-09-15,Cagliari,Away,Matchweek 4,4,0,1.9,1.9,2.1,2.1,13,5,38.5,0.31,0.8,4,2.1,Win,11.935,2.1
+Arsenal,2024-09-15,Tottenham,Away,Matchweek 4,1,0,0.7,0.7,0.3,0.3,7,4,57.1,0.14,0.25,1,0.3,Win,7.994,0.3
+Barcelona,2024-09-15,Girona,Away,Matchweek 5,4,1,1.9,1.9,2.1,2.1,20,9,45,0.2,0.44,3,2.1,Win,9,2.1
+Atletico Madrid,2024-09-15,Valencia,Home,Matchweek 5,3,0,3.1,3.1,-0.1,-0.1,14,4,28.6,0.21,0.75,3,-0.1,Win,6.006,0
+Manchester Utd,2024-09-21,Crystal Palace,Away,Matchweek 5,0,0,1.6,1.6,-1.6,-1.6,15,6,40,0,0,0,-1.6,Draw,0,0
+Bayern Munich,2024-09-21,Werder Bremen,Away,Matchweek 4,5,0,3,3,2,2,25,7,28,0.2,0.71,5,2,Win,5.6,2
+PSG,2024-09-21,Reims,Away,Matchweek 5,1,1,1.6,1.6,-0.6,-0.6,11,4,36.4,0.09,0.25,0,-0.6,Draw,3.276,0
+Liverpool,2024-09-21,Bournemouth,Home,Matchweek 5,3,0,2,2,1,1,19,12,63.2,0.16,0.25,3,1,Win,10.112,1
+Real Madrid,2024-09-21,Espanyol,Home,Matchweek 6,4,1,4.4,3.6,-0.4,-0.6,30,13,43.3,0.1,0.23,3,-0.4,Win,4.33,0
+Tottenham,2024-09-21,Brentford,Home,Matchweek 5,3,1,3.5,3.5,-0.5,-0.5,23,9,39.1,0.13,0.33,2,-0.5,Win,5.083,0
+Napoli,2024-09-21,Juventus,Away,Matchweek 5,0,0,0.3,0.3,-0.3,-0.3,8,1,12.5,0,0,0,-0.3,Draw,0,0
+Chelsea,2024-09-21,West Ham,Away,Matchweek 5,3,0,2.2,2.2,0.8,0.8,12,5,41.7,0.25,0.6,3,0.8,Win,10.425,0.8
+Juventus,2024-09-21,Napoli,Home,Matchweek 5,0,0,0.3,0.3,-0.3,-0.3,9,1,11.1,0,0,0,-0.3,Draw,0,0
+Arsenal,2024-09-22,Manchester City,Away,Matchweek 5,2,2,0.7,0.7,1.3,1.3,5,3,60,0.4,0.67,0,1.3,Draw,24,0
+Manchester City,2024-09-22,Arsenal,Home,Matchweek 5,2,2,2.1,2.1,-0.1,-0.1,33,11,33.3,0.06,0.18,0,-0.1,Draw,1.998,0
+Milan,2024-09-22,Inter,Away,Matchweek 5,2,1,1.7,1.7,0.3,0.3,16,8,50,0.13,0.25,1,0.3,Win,6.5,0.3
+Atletico Madrid,2024-09-22,Rayo Vallecano,Away,Matchweek 6,1,1,0.5,0.5,0.5,0.5,10,5,50,0.1,0.2,0,0.5,Draw,5,0
+Inter,2024-09-22,Milan,Home,Matchweek 5,1,2,0.7,0.7,0.3,0.3,13,4,30.8,0.08,0.25,-1,0.3,Loss,2.464,0
+Barcelona,2024-09-22,Villarreal,Away,Matchweek 6,5,1,3.9,3.2,1.1,1.8,16,9,56.3,0.31,0.56,4,1.1,Win,17.453,1.1
+Real Madrid,2024-09-24,Alavés,Home,Matchweek 7,3,2,1.3,1.3,1.7,1.7,10,4,40,0.3,0.75,1,1.7,Win,12,1.7
+Barcelona,2024-09-25,Getafe,Home,Matchweek 7,1,0,1.9,1.9,-0.9,-0.9,15,4,26.7,0.07,0.25,1,-0.9,Win,1.869,0
+Atletico Madrid,2024-09-26,Celta Vigo,Away,Matchweek 7,1,0,0.6,0.6,0.4,0.4,8,2,25,0.13,0.5,1,0.4,Win,3.25,0.4
+PSG,2024-09-27,Rennes,Home,Matchweek 6,3,1,3,3,0,0,23,7,30.4,0.13,0.43,2,0,Win,3.952,0
+Milan,2024-09-27,Lecce,Home,Matchweek 6,3,0,1.6,1.6,1.4,1.4,15,6,40,0.2,0.5,3,1.4,Win,8,1.4
+Chelsea,2024-09-28,Brighton,Home,Matchweek 6,4,2,4.2,3.4,-0.2,-0.4,14,5,35.7,0.21,0.6,2,-0.2,Win,7.497,0
+Inter,2024-09-28,Udinese,Away,Matchweek 6,3,2,2.2,2.2,0.8,0.8,16,7,43.8,0.19,0.43,1,0.8,Win,8.322,0.8
+Juventus,2024-09-28,Genoa,Away,Matchweek 6,3,0,2.6,1.8,0.4,0.2,11,2,18.2,0.18,1,3,0.4,Win,3.276,0.4
+Manchester City,2024-09-28,Newcastle Utd,Away,Matchweek 6,1,1,0.9,0.9,0.1,0.1,16,6,37.5,0.06,0.17,0,0.1,Draw,2.25,0
+Barcelona,2024-09-28,Osasuna,Away,Matchweek 8,2,4,0.8,0.8,1.2,1.2,12,6,50,0.17,0.33,-2,1.2,Loss,8.5,0
+Liverpool,2024-09-28,Wolves,Away,Matchweek 6,2,1,2.5,1.7,-0.5,-0.7,9,5,55.6,0.11,0.2,1,-0.5,Win,6.116,0
+Bayern Munich,2024-09-28,Leverkusen,Home,Matchweek 5,1,1,1.4,1.4,-0.4,-0.4,18,3,16.7,0.06,0.33,0,-0.4,Draw,1.002,0
+Arsenal,2024-09-28,Leicester City,Home,Matchweek 6,4,2,4.4,4.4,-1.4,-1.4,35,16,45.7,0.09,0.19,2,-0.4,Win,4.113,0
+Real Madrid,2024-09-29,Atlético Madrid,Away,Matchweek 8,1,1,0.8,0.8,0.2,0.2,12,4,33.3,0.08,0.25,0,0.2,Draw,2.664,0
+Atletico Madrid,2024-09-29,Real Madrid,Home,Matchweek 8,1,1,1.3,1.3,-0.3,-0.3,12,4,33.3,0.08,0.25,0,-0.3,Draw,2.664,0
+Napoli,2024-09-29,Monza,Home,Matchweek 6,2,0,1.1,1.1,0.9,0.9,11,2,18.2,0.18,1,2,0.9,Win,3.276,0.9
+Tottenham,2024-09-29,Manchester Utd,Away,Matchweek 6,3,0,4.4,4.4,-1.4,-1.4,24,10,41.7,0.13,0.3,3,-1.4,Win,5.421,0
+Manchester Utd,2024-09-29,Tottenham,Home,Matchweek 6,0,3,1,1,-1,-1,11,2,18.2,0,0,-3,-1,Loss,0,0
+Napoli,2024-10-04,Como,Home,Matchweek 7,3,1,1.9,1.1,1.1,0.9,8,5,62.5,0.25,0.4,2,1.1,Win,15.625,1.1
+Real Madrid,2024-10-05,Villarreal,Home,Matchweek 9,2,0,0.5,0.5,1.5,1.5,11,2,18.2,0.18,1,2,1.5,Win,3.276,1.5
+Manchester City,2024-10-05,Fulham,Home,Matchweek 7,3,2,1.6,1.6,1.4,1.4,20,7,35,0.15,0.43,1,1.4,Win,5.25,1.4
+Inter,2024-10-05,Torino,Home,Matchweek 7,3,2,2.4,2.4,0.6,0.6,29,8,27.6,0.1,0.38,1,0.6,Win,2.76,0.6
+Liverpool,2024-10-05,Crystal Palace,Away,Matchweek 7,1,0,1.4,1.4,-0.4,-0.4,16,4,25,0.06,0.25,1,-0.4,Win,1.5,0
+Arsenal,2024-10-05,Southampton,Home,Matchweek 7,3,1,2.8,2.8,0.2,0.2,29,6,20.7,0.1,0.5,2,0.2,Win,2.07,0.2
+Atletico Madrid,2024-10-06,Real Sociedad,Away,Matchweek 9,1,1,0.5,0.5,0.5,0.5,4,1,25,0.25,1,0,0.5,Draw,6.25,0
+Bayern Munich,2024-10-06,Eint Frankfurt,Away,Matchweek 6,3,3,2.2,2.2,0.8,0.8,24,13,54.2,0.13,0.23,0,0.8,Draw,7.046,0
+PSG,2024-10-06,Nice,Away,Matchweek 7,1,1,1.3,1.3,-1.3,-1.3,19,7,36.8,0,0,0,-0.3,Draw,0,0
+Chelsea,2024-10-06,Nott'ham Forest,Home,Matchweek 7,1,1,2.3,2.3,-1.3,-1.3,22,8,36.4,0.05,0.13,0,-1.3,Draw,1.82,0
+Barcelona,2024-10-06,Alavés,Away,Matchweek 9,3,0,2.7,2.7,0.3,0.3,15,9,60,0.2,0.33,3,0.3,Win,12,0.3
+Tottenham,2024-10-06,Brighton,Away,Matchweek 7,2,3,1.3,1.3,0.7,0.7,13,3,23.1,0.15,0.67,-1,0.7,Loss,3.465,0
+Manchester Utd,2024-10-06,Aston Villa,Away,Matchweek 7,0,0,0.6,0.6,-0.6,-0.6,10,4,40,0,0,0,-0.6,Draw,0,0
+Juventus,2024-10-06,Cagliari,Home,Matchweek 7,1,1,2.4,1.7,-1.4,-1.7,20,8,40,0,0,0,-1.4,Draw,0,0
+Milan,2024-10-06,Fiorentina,Away,Matchweek 7,1,2,2.6,1,-1.6,0,14,6,42.9,0.07,0.17,-1,-1.6,Loss,3.003,0
+Milan,2024-10-19,Udinese,Home,Matchweek 8,1,0,1.2,1.2,-0.2,-0.2,10,5,50,0.1,0.2,1,-0.2,Win,5,0
+PSG,2024-10-19,Strasbourg,Home,Matchweek 8,4,2,3.5,3.5,0.5,0.5,18,10,55.6,0.22,0.4,2,0.5,Win,12.232,0.5
+Tottenham,2024-10-19,West Ham,Home,Matchweek 8,4,1,1.9,1.9,1.1,1.1,22,7,31.8,0.14,0.43,3,2.1,Win,4.452,2.1
+Manchester Utd,2024-10-19,Brentford,Home,Matchweek 8,2,1,1.3,1.3,0.7,0.7,23,11,47.8,0.09,0.18,1,0.7,Win,4.302,0.7
+Real Madrid,2024-10-19,Celta Vigo,Away,Matchweek 10,2,1,0.7,0.7,1.3,1.3,10,3,30,0.2,0.67,1,1.3,Win,6,1.3
+Bayern Munich,2024-10-19,Stuttgart,Home,Matchweek 7,4,0,3.2,3.2,0.8,0.8,22,10,45.5,0.18,0.4,4,0.8,Win,8.19,0.8
+Arsenal,2024-10-19,Bournemouth,Away,Matchweek 8,0,2,0.7,0.7,-0.7,-0.7,6,1,16.7,0,0,-2,-0.7,Loss,0,0
+Juventus,2024-10-19,Lazio,Home,Matchweek 8,1,0,1.3,1.3,-1.3,-1.3,16,3,18.8,0,0,1,-0.3,Win,0,0
+Atletico Madrid,2024-10-20,Leganés,Home,Matchweek 10,3,1,4.4,4.4,-1.4,-1.4,24,8,33.3,0.13,0.38,2,-1.4,Win,4.329,0
+Chelsea,2024-10-20,Liverpool,Away,Matchweek 8,1,2,1,1,0,0,12,2,16.7,0.08,0.5,-1,0,Loss,1.336,0
+Liverpool,2024-10-20,Chelsea,Home,Matchweek 8,2,1,1.9,1.1,0.1,-0.1,8,4,50,0.13,0.25,1,0.1,Win,6.5,0.1
+Manchester City,2024-10-20,Wolves,Away,Matchweek 8,2,1,1.6,1.6,0.4,0.4,22,7,31.8,0.09,0.29,1,0.4,Win,2.862,0.4
+Inter,2024-10-20,Roma,Away,Matchweek 8,1,0,1,1,0,0,11,6,54.5,0.09,0.17,1,0,Win,4.905,0
+Napoli,2024-10-20,Empoli,Away,Matchweek 8,1,0,1.3,0.6,-0.3,-0.6,8,0,0,0,,1,-0.3,Win,0,0
+Barcelona,2024-10-20,Sevilla,Home,Matchweek 10,5,1,3.8,3.1,1.2,0.9,20,8,40,0.2,0.5,4,1.2,Win,8,1.2
+Manchester City,2024-10-26,Southampton,Home,Matchweek 9,1,0,2.9,2.9,-1.9,-1.9,22,7,31.8,0.05,0.14,1,-1.9,Win,1.59,0
+Napoli,2024-10-26,Lecce,Home,Matchweek 9,1,0,2.7,2.7,-1.7,-1.7,24,8,33.3,0.04,0.13,1,-1.7,Win,1.332,0
+Barcelona,2024-10-26,Real Madrid,Away,Matchweek 11,4,0,2.6,2.6,1.4,1.4,15,7,46.7,0.27,0.57,4,1.4,Win,12.609,1.4
+Real Madrid,2024-10-26,Barcelona,Home,Matchweek 11,0,4,1.5,1.5,-1.5,-1.5,9,4,44.4,0,0,-4,-1.5,Loss,0,0
+Juventus,2024-10-27,Inter,Away,Matchweek 9,4,4,2.1,2.1,1.9,1.9,10,5,50,0.4,0.8,0,1.9,Draw,20,0
+Liverpool,2024-10-27,Arsenal,Away,Matchweek 9,2,2,0.8,0.8,1.2,1.2,9,4,44.4,0.22,0.5,0,1.2,Draw,9.768,0
+Inter,2024-10-27,Juventus,Home,Matchweek 9,4,4,3,1.4,1,0.6,16,7,43.8,0.13,0.29,0,1,Draw,5.694,0
+Atletico Madrid,2024-10-27,Betis,Away,Matchweek 11,0,1,0.5,0.5,-0.5,-0.5,10,3,30,0,0,-1,-0.5,Loss,0,0
+Bayern Munich,2024-10-27,Bochum,Away,Matchweek 8,5,0,2.2,2.2,2.8,2.8,19,10,52.6,0.26,0.5,5,2.8,Win,13.676,2.8
+Chelsea,2024-10-27,Newcastle Utd,Home,Matchweek 9,2,1,1.6,1.6,0.4,0.4,17,7,41.2,0.12,0.29,1,0.4,Win,4.944,0.4
+PSG,2024-10-27,Marseille,Away,Matchweek 9,3,0,3.1,3.1,-1.1,-1.1,19,8,42.1,0.11,0.25,3,-0.1,Win,4.631,0
+Manchester Utd,2024-10-27,West Ham,Away,Matchweek 9,1,2,2.3,2.3,-1.3,-1.3,18,5,27.8,0.06,0.2,-1,-1.3,Loss,1.668,0
+Arsenal,2024-10-27,Liverpool,Home,Matchweek 9,2,2,0.9,0.9,1.1,1.1,9,3,33.3,0.22,0.67,0,1.1,Draw,7.326,0
+Tottenham,2024-10-27,Crystal Palace,Away,Matchweek 9,0,1,0.7,0.7,-0.7,-0.7,11,3,27.3,0,0,-1,-0.7,Loss,0,0
+Milan,2024-10-29,Napoli,Home,Matchweek 10,0,2,0.7,0.7,-0.7,-0.7,13,5,38.5,0,0,-2,-0.7,Loss,0,0
+Napoli,2024-10-29,Milan,Away,Matchweek 10,2,0,1.1,1.1,0.9,0.9,9,4,44.4,0.22,0.5,2,0.9,Win,9.768,0.9
+Juventus,2024-10-30,Parma,Home,Matchweek 10,2,2,2.4,2.4,-0.4,-0.4,24,4,16.7,0.08,0.5,0,-0.4,Draw,1.336,0
+Inter,2024-10-30,Empoli,Away,Matchweek 10,3,0,1.1,1.1,1.9,1.9,15,5,33.3,0.2,0.6,3,1.9,Win,6.66,1.9
+Bayern Munich,2024-11-02,Union Berlin,Home,Matchweek 9,3,0,2.5,1.7,0.5,0.3,15,6,40,0.13,0.33,3,0.5,Win,5.2,0.5
+Milan,2024-11-02,Monza,Away,Matchweek 11,1,0,2.5,2.5,-1.5,-1.5,18,7,38.9,0.06,0.14,1,-1.5,Win,2.334,0
+Arsenal,2024-11-02,Newcastle Utd,Away,Matchweek 10,0,1,1.1,1.1,-1.1,-1.1,10,0,0,0,,-1,-1.1,Loss,0,0
+Juventus,2024-11-02,Udinese,Away,Matchweek 11,2,0,1.3,1.3,-0.3,-0.3,11,5,45.5,0.09,0.2,2,0.7,Win,4.095,0.7
+Liverpool,2024-11-02,Brighton,Home,Matchweek 10,2,1,1.6,1.6,0.4,0.4,16,8,50,0.13,0.25,1,0.4,Win,6.5,0.4
+PSG,2024-11-02,Lens,Home,Matchweek 10,1,0,2.9,2.9,-1.9,-1.9,18,8,44.4,0.06,0.13,1,-1.9,Win,2.664,0
+Manchester City,2024-11-02,Bournemouth,Away,Matchweek 10,1,2,1.6,1.6,-0.6,-0.6,18,4,22.2,0.06,0.25,-1,-0.6,Loss,1.332,0
+Barcelona,2024-11-03,Espanyol,Home,Matchweek 12,3,1,1.8,1.8,1.2,1.2,14,9,64.3,0.21,0.33,2,1.2,Win,13.503,1.2
+Manchester Utd,2024-11-03,Chelsea,Home,Matchweek 10,1,1,2,1.2,-1,-1.2,10,3,30,0,0,0,-1,Draw,0,0
+Chelsea,2024-11-03,Manchester Utd,Away,Matchweek 10,1,1,1.1,1.1,-0.1,-0.1,12,3,25,0.08,0.33,0,-0.1,Draw,2,0
+Tottenham,2024-11-03,Aston Villa,Home,Matchweek 10,4,1,2.4,2.4,1.6,1.6,16,6,37.5,0.25,0.67,3,1.6,Win,9.375,1.6
+Napoli,2024-11-03,Atalanta,Home,Matchweek 11,0,3,0.8,0.8,-0.8,-0.8,13,3,23.1,0,0,-3,-0.8,Loss,0,0
+Inter,2024-11-03,Venezia,Home,Matchweek 11,1,0,2.4,2.4,-1.4,-1.4,19,8,42.1,0.05,0.13,1,-1.4,Win,2.105,0
+Atletico Madrid,2024-11-03,Las Palmas,Home,Matchweek 12,2,0,1.6,1.6,0.4,0.4,15,3,20,0.13,0.67,2,0.4,Win,2.6,0.4
+Manchester City,2024-11-09,Brighton,Away,Matchweek 11,1,2,2.1,2.1,-1.1,-1.1,15,6,40,0.07,0.17,-1,-1.1,Loss,2.8,0
+Juventus,2024-11-09,Torino,Home,Matchweek 12,2,0,1.7,1.7,0.3,0.3,13,4,30.8,0.15,0.5,2,0.3,Win,4.62,0.3
+Real Madrid,2024-11-09,Osasuna,Home,Matchweek 13,4,0,3.1,3.1,0.9,0.9,18,8,44.4,0.22,0.5,4,0.9,Win,9.768,0.9
+PSG,2024-11-09,Angers,Away,Matchweek 11,4,2,3.4,3.4,0.6,0.6,26,12,46.2,0.15,0.33,2,0.6,Win,6.93,0.6
+Milan,2024-11-09,Cagliari,Away,Matchweek 12,3,3,3.3,3.3,-0.3,-0.3,13,6,46.2,0.23,0.5,0,-0.3,Draw,10.626,0
+Bayern Munich,2024-11-09,St. Pauli,Away,Matchweek 10,1,0,0.8,0.8,0.2,0.2,13,6,46.2,0.08,0.17,1,0.2,Win,3.696,0.2
+Liverpool,2024-11-09,Aston Villa,Home,Matchweek 11,2,0,2,2,0,0,14,5,35.7,0.14,0.4,2,0,Win,4.998,0
+Atletico Madrid,2024-11-10,Mallorca,Away,Matchweek 13,1,0,0.6,0.6,0.4,0.4,9,2,22.2,0.11,0.5,1,0.4,Win,2.442,0.4
+Napoli,2024-11-10,Inter,Away,Matchweek 12,1,1,0.7,0.7,0.3,0.3,5,2,40,0.2,0.5,0,0.3,Draw,8,0
+Manchester Utd,2024-11-10,Leicester City,Home,Matchweek 11,3,0,0.8,0.8,1.2,1.2,13,3,23.1,0.15,0.67,3,2.2,Win,3.465,2.2
+Inter,2024-11-10,Napoli,Home,Matchweek 12,1,1,1.5,0.8,-0.5,0.2,12,4,33.3,0.08,0.25,0,-0.5,Draw,2.664,0
+Chelsea,2024-11-10,Arsenal,Home,Matchweek 11,1,1,1.5,1.5,-0.5,-0.5,17,3,17.6,0.06,0.33,0,-0.5,Draw,1.056,0
+Tottenham,2024-11-10,Ipswich Town,Home,Matchweek 11,1,2,1.5,1.5,-0.5,-0.5,17,5,29.4,0.06,0.2,-1,-0.5,Loss,1.764,0
+Arsenal,2024-11-10,Chelsea,Away,Matchweek 11,1,1,1.5,1.5,-0.5,-0.5,13,3,23.1,0.08,0.33,0,-0.5,Draw,1.848,0
+Barcelona,2024-11-10,Real Sociedad,Away,Matchweek 13,0,1,0.7,0.7,-0.7,-0.7,11,0,0,0,,-1,-0.7,Loss,0,0
+Bayern Munich,2024-11-22,Augsburg,Home,Matchweek 11,3,0,3.7,2.2,-0.7,-1.2,31,12,38.7,0.03,0.08,3,-0.7,Win,1.161,0
+PSG,2024-11-22,Toulouse,Home,Matchweek 12,3,0,1.1,1.1,1.9,1.9,17,8,47.1,0.18,0.38,3,1.9,Win,8.478,1.9
+Milan,2024-11-23,Juventus,Home,Matchweek 13,0,0,0.3,0.3,-0.3,-0.3,6,1,16.7,0,0,0,-0.3,Draw,0,0
+Manchester City,2024-11-23,Tottenham,Home,Matchweek 12,0,4,2.1,2.1,-2.1,-2.1,23,5,21.7,0,0,-4,-2.1,Loss,0,0
+Arsenal,2024-11-23,Nott'ham Forest,Home,Matchweek 12,3,0,1.2,1.2,1.8,1.8,19,6,31.6,0.16,0.5,3,1.8,Win,5.056,1.8
+Chelsea,2024-11-23,Leicester City,Away,Matchweek 12,2,1,2.7,2.7,-0.7,-0.7,16,6,37.5,0.13,0.33,1,-0.7,Win,4.875,0
+Tottenham,2024-11-23,Manchester City,Away,Matchweek 12,4,0,2.5,2.5,1.5,1.5,9,7,77.8,0.44,0.57,4,1.5,Win,34.232,1.5
+Atletico Madrid,2024-11-23,Alavés,Home,Matchweek 14,2,1,1.6,0.9,0.4,0.1,10,7,70,0.1,0.14,1,0.4,Win,7,0.4
+Barcelona,2024-11-23,Celta Vigo,Away,Matchweek 14,2,2,1.8,1.8,0.2,0.2,9,4,44.4,0.22,0.5,0,0.2,Draw,9.768,0
+Inter,2024-11-23,Hellas Verona,Away,Matchweek 13,5,0,3.2,3.2,1.8,1.8,12,7,58.3,0.42,0.71,5,1.8,Win,24.486,1.8
+Juventus,2024-11-23,Milan,Away,Matchweek 13,0,0,0.4,0.4,-0.4,-0.4,7,2,28.6,0,0,0,-0.4,Draw,0,0
+Napoli,2024-11-24,Roma,Home,Matchweek 13,1,0,1.4,1.4,-0.4,-0.4,14,2,14.3,0.07,0.5,1,-0.4,Win,1.001,0
+Manchester Utd,2024-11-24,Ipswich Town,Away,Matchweek 12,1,1,0.8,0.8,0.2,0.2,11,4,36.4,0.09,0.25,0,0.2,Draw,3.276,0
+Liverpool,2024-11-24,Southampton,Away,Matchweek 12,3,2,3.1,2.3,-0.1,-0.3,26,10,38.5,0.08,0.2,1,-0.1,Win,3.08,0
+Real Madrid,2024-11-24,Leganés,Away,Matchweek 14,3,0,1.8,1.8,1.2,1.2,16,8,50,0.19,0.38,3,1.2,Win,9.5,1.2
+Arsenal,2024-11-30,West Ham,Away,Matchweek 13,5,2,3.5,2,1.5,1,14,5,35.7,0.21,0.6,3,1.5,Win,7.497,1.5
+Atletico Madrid,2024-11-30,Valladolid,Away,Matchweek 15,5,0,4,4,1,1,13,9,69.2,0.38,0.56,5,1,Win,26.296,1
+Bayern Munich,2024-11-30,Dortmund,Away,Matchweek 12,1,1,1.5,1.5,-0.5,-0.5,14,5,35.7,0.07,0.2,0,-0.5,Draw,2.499,0
+PSG,2024-11-30,Nantes,Home,Matchweek 13,1,1,2.6,2.6,-1.6,-1.6,24,10,41.7,0.04,0.1,0,-1.6,Draw,1.668,0
+Milan,2024-11-30,Empoli,Home,Matchweek 14,3,0,2.3,2.3,0.7,0.7,20,4,20,0.15,0.75,3,0.7,Win,3,0.7
+Barcelona,2024-11-30,Las Palmas,Home,Matchweek 15,1,2,2.3,2.3,-1.3,-1.3,27,8,29.6,0.04,0.13,-1,-1.3,Loss,1.184,0
+Juventus,2024-12-01,Lecce,Away,Matchweek 14,1,1,1.3,1.3,-0.3,-0.3,14,3,21.4,0.07,0.33,0,-0.3,Draw,1.498,0
+Liverpool,2024-12-01,Manchester City,Home,Matchweek 13,2,0,3.4,2.6,-1.4,-1.6,17,6,35.3,0.06,0.17,2,-1.4,Win,2.118,0
+Chelsea,2024-12-01,Aston Villa,Home,Matchweek 13,3,0,1.6,1.6,1.4,1.4,17,8,47.1,0.18,0.38,3,1.4,Win,8.478,1.4
+Real Madrid,2024-12-01,Getafe,Home,Matchweek 15,2,0,3.2,2.4,-1.2,-1.4,12,3,25,0.08,0.33,2,-1.2,Win,2,0
+Manchester Utd,2024-12-01,Everton,Home,Matchweek 13,4,0,1.1,1.1,2.9,2.9,11,5,45.5,0.36,0.8,4,2.9,Win,16.38,2.9
+Napoli,2024-12-01,Torino,Away,Matchweek 14,1,0,1.4,1.4,-0.4,-0.4,16,6,37.5,0.06,0.17,1,-0.4,Win,2.25,0
+Manchester City,2024-12-01,Liverpool,Away,Matchweek 13,0,2,0.8,0.8,-0.8,-0.8,8,2,25,0,0,-2,-0.8,Loss,0,0
+Tottenham,2024-12-01,Fulham,Home,Matchweek 13,1,1,0.8,0.8,0.2,0.2,8,3,37.5,0.13,0.33,0,0.2,Draw,4.875,0
+Barcelona,2024-12-03,Mallorca,Away,Matchweek 19,5,1,5,4.2,0,-0.2,19,8,42.1,0.21,0.5,4,0,Win,8.841,0
+Manchester Utd,2024-12-04,Arsenal,Away,Matchweek 14,0,2,0.2,0.2,-0.2,-0.2,5,2,40,0,0,-2,-0.2,Loss,0,0
+Chelsea,2024-12-04,Southampton,Away,Matchweek 14,5,1,5.2,5.2,-0.2,-0.2,26,11,42.3,0.19,0.45,4,-0.2,Win,8.037,0
+Arsenal,2024-12-04,Manchester Utd,Home,Matchweek 14,2,0,2.1,2.1,-0.1,-0.1,14,6,42.9,0.14,0.33,2,-0.1,Win,6.006,0
+Liverpool,2024-12-04,Newcastle Utd,Away,Matchweek 14,3,3,1.9,1.9,1.1,1.1,16,5,31.3,0.19,0.6,0,1.1,Draw,5.947,0
+Manchester City,2024-12-04,Nott'ham Forest,Home,Matchweek 14,3,0,2.4,2.4,0.6,0.6,17,6,35.3,0.18,0.5,3,0.6,Win,6.354,0.6
+Real Madrid,2024-12-04,Athletic Club,Away,Matchweek 19,1,2,1.7,0.9,-0.7,0.1,9,4,44.4,0.11,0.25,-1,-0.7,Loss,4.884,0
+Tottenham,2024-12-05,Bournemouth,Away,Matchweek 14,0,1,0.9,0.9,-0.9,-0.9,12,4,33.3,0,0,-1,-0.9,Loss,0,0
+PSG,2024-12-06,Auxerre,Away,Matchweek 14,0,0,2.5,2.5,-2.5,-2.5,24,11,45.8,0,0,0,-2.5,Draw,0,0
+Milan,2024-12-06,Atalanta,Away,Matchweek 15,1,2,0.7,0.7,0.3,0.3,6,2,33.3,0.17,0.5,-1,0.3,Loss,5.661,0
+Inter,2024-12-06,Parma,Home,Matchweek 15,3,1,1.8,1.8,1.2,1.2,18,5,27.8,0.17,0.6,2,1.2,Win,4.726,1.2
+Barcelona,2024-12-07,Betis,Away,Matchweek 16,2,2,1.9,1.9,0.1,0.1,9,3,33.3,0.22,0.67,0,0.1,Draw,7.326,0
+Manchester Utd,2024-12-07,Nott'ham Forest,Home,Matchweek 15,2,3,1.6,1.6,0.4,0.4,17,7,41.2,0.12,0.29,-1,0.4,Loss,4.944,0
+Juventus,2024-12-07,Bologna,Home,Matchweek 15,2,2,1,1,1,1,10,3,30,0.2,0.67,0,1,Draw,6,0
+Real Madrid,2024-12-07,Girona,Away,Matchweek 16,3,0,0.9,0.9,2.1,2.1,10,7,70,0.3,0.43,3,2.1,Win,21,2.1
+Bayern Munich,2024-12-07,Heidenheim,Home,Matchweek 13,4,2,2.4,2.4,1.6,1.6,21,10,47.6,0.19,0.4,2,1.6,Win,9.044,1.6
+Manchester City,2024-12-07,Crystal Palace,Away,Matchweek 15,2,2,1.4,1.4,0.6,0.6,12,4,33.3,0.17,0.5,0,0.6,Draw,5.661,0
+Tottenham,2024-12-08,Chelsea,Home,Matchweek 15,3,4,2.8,2.8,0.2,0.2,13,5,38.5,0.23,0.6,-1,0.2,Loss,8.855,0
+Arsenal,2024-12-08,Fulham,Away,Matchweek 15,1,1,1.8,1.8,-0.8,-0.8,12,4,33.3,0.08,0.25,0,-0.8,Draw,2.664,0
+Chelsea,2024-12-08,Tottenham,Away,Matchweek 15,4,3,2.8,1.2,1.2,0.8,15,6,40,0.13,0.33,1,1.2,Win,5.2,1.2
+Napoli,2024-12-08,Lazio,Home,Matchweek 15,0,1,0.5,0.5,-0.5,-0.5,12,1,8.3,0,0,-1,-0.5,Loss,0,0
+Atletico Madrid,2024-12-08,Sevilla,Home,Matchweek 16,4,3,2,2,2,2,14,9,64.3,0.29,0.44,1,2,Win,18.647,2
+Bayern Munich,2024-12-14,Mainz 05,Away,Matchweek 14,1,2,1.4,1.4,-0.4,-0.4,13,1,7.7,0.08,1,-1,-0.4,Loss,0.616,0
+Napoli,2024-12-14,Udinese,Away,Matchweek 16,3,1,2.2,2.2,-0.2,-0.2,17,4,23.5,0.12,0.5,2,0.8,Win,2.82,0.8
+Arsenal,2024-12-14,Everton,Home,Matchweek 16,0,0,1.2,1.2,-1.2,-1.2,13,5,38.5,0,0,0,-1.2,Draw,0,0
+Liverpool,2024-12-14,Fulham,Home,Matchweek 16,2,2,2.1,2.1,-0.1,-0.1,16,4,25,0.13,0.5,0,-0.1,Draw,3.25,0
+Juventus,2024-12-14,Venezia,Home,Matchweek 16,2,2,2.1,1.3,-0.1,-0.3,11,3,27.3,0.09,0.33,0,-0.1,Draw,2.457,0
+Real Madrid,2024-12-14,Rayo Vallecano,Away,Matchweek 17,3,3,0.7,0.7,2.3,2.3,13,6,46.2,0.23,0.5,0,2.3,Draw,10.626,0
+Atletico Madrid,2024-12-15,Getafe,Home,Matchweek 17,1,0,1.7,1.7,-0.7,-0.7,11,3,27.3,0.09,0.33,1,-0.7,Win,2.457,0
+Manchester City,2024-12-15,Manchester Utd,Home,Matchweek 16,1,2,0.9,0.9,0.1,0.1,10,3,30,0.1,0.33,-1,0.1,Loss,3,0
+Manchester Utd,2024-12-15,Manchester City,Away,Matchweek 16,2,1,2.1,1.3,-0.1,-0.3,9,2,22.2,0.11,0.5,1,-0.1,Win,2.442,0
+Milan,2024-12-15,Genoa,Home,Matchweek 16,0,0,1.1,1.1,-1.1,-1.1,22,4,18.2,0,0,0,-1.1,Draw,0,0
+Chelsea,2024-12-15,Brentford,Home,Matchweek 16,2,1,2.2,2.2,-0.2,-0.2,26,8,30.8,0.08,0.25,1,-0.2,Win,2.464,0
+Tottenham,2024-12-15,Southampton,Away,Matchweek 16,5,0,2.3,2.3,2.7,2.7,18,9,50,0.28,0.56,5,2.7,Win,14,2.7
+Barcelona,2024-12-15,Leganés,Home,Matchweek 17,0,1,2.6,2.6,-2.6,-2.6,20,3,15,0,0,-1,-2.6,Loss,0,0
+PSG,2024-12-15,Lyon,Home,Matchweek 15,3,1,2.9,2.1,0.1,-0.1,12,5,41.7,0.17,0.4,2,0.1,Win,7.089,0.1
+Inter,2024-12-16,Lazio,Away,Matchweek 16,6,0,2,1.3,4,3.7,11,6,54.5,0.45,0.83,6,4,Win,24.525,4
+PSG,2024-12-18,Monaco,Away,Matchweek 16,4,2,1.8,1.8,2.2,2.2,17,11,64.7,0.24,0.36,2,2.2,Win,15.528,2.2
+Bayern Munich,2024-12-20,RB Leipzig,Home,Matchweek 15,5,1,3.3,3.3,1.7,1.7,22,9,40.9,0.23,0.56,4,1.7,Win,9.407,1.7
+Milan,2024-12-20,Hellas Verona,Away,Matchweek 17,1,0,0.8,0.8,0.2,0.2,14,6,42.9,0.07,0.17,1,0.2,Win,3.003,0.2
+Arsenal,2024-12-21,Crystal Palace,Away,Matchweek 17,5,1,2.5,2.5,2.5,2.5,14,6,42.9,0.36,0.83,4,2.5,Win,15.444,2.5
+Atletico Madrid,2024-12-21,Barcelona,Away,Matchweek 18,2,1,0.7,0.7,1.3,1.3,5,4,80,0.4,0.5,1,1.3,Win,32,1.3
+Napoli,2024-12-21,Genoa,Away,Matchweek 17,2,1,1.2,1.2,0.8,0.8,12,2,16.7,0.17,1,1,0.8,Win,2.839,0.8
+Manchester City,2024-12-21,Aston Villa,Away,Matchweek 17,1,2,1,1,0,0,12,6,50,0.08,0.17,-1,0,Loss,4,0
+Barcelona,2024-12-21,Atlético Madrid,Home,Matchweek 18,1,2,2.7,2.7,-1.7,-1.7,19,7,36.8,0.05,0.14,-1,-1.7,Loss,1.84,0
+Juventus,2024-12-22,Monza,Away,Matchweek 17,2,1,1.8,1.8,0.2,0.2,16,9,56.3,0.13,0.22,1,0.2,Win,7.319,0.2
+Tottenham,2024-12-22,Liverpool,Home,Matchweek 17,3,6,1.3,1.3,1.7,1.7,9,5,55.6,0.33,0.6,-3,1.7,Loss,18.348,0
+Manchester Utd,2024-12-22,Bournemouth,Home,Matchweek 17,0,3,2.2,2.2,-2.2,-2.2,23,7,30.4,0,0,-3,-2.2,Loss,0,0
+Chelsea,2024-12-22,Everton,Away,Matchweek 17,0,0,1.2,1.2,-1.2,-1.2,12,4,33.3,0,0,0,-1.2,Draw,0,0
+Liverpool,2024-12-22,Tottenham,Away,Matchweek 17,6,3,5.6,5.6,0.4,0.4,24,11,45.8,0.25,0.55,3,0.4,Win,11.45,0.4
+Real Madrid,2024-12-22,Sevilla,Home,Matchweek 18,4,2,2,2,2,2,16,7,43.8,0.25,0.57,2,2,Win,10.95,2
+Inter,2024-12-23,Como,Home,Matchweek 17,2,0,1.6,1.6,0.4,0.4,17,5,29.4,0.12,0.4,2,0.4,Win,3.528,0.4
+Manchester Utd,2024-12-26,Wolves,Away,Matchweek 18,0,2,0.4,0.4,-0.4,-0.4,11,4,36.4,0,0,-2,-0.4,Loss,0,0
+Manchester City,2024-12-26,Everton,Home,Matchweek 18,1,1,2.1,1.2,-1.1,-0.2,23,4,17.4,0.04,0.25,0,-1.1,Draw,0.696,0
+Liverpool,2024-12-26,Leicester City,Home,Matchweek 18,3,1,2,2,1,1,19,7,36.8,0.16,0.43,2,1,Win,5.888,1
+Chelsea,2024-12-26,Fulham,Home,Matchweek 18,1,2,1.1,1.1,-0.1,-0.1,12,8,66.7,0.08,0.13,-1,-0.1,Loss,5.336,0
+Tottenham,2024-12-26,Nott'ham Forest,Away,Matchweek 18,0,1,0.9,0.9,-0.9,-0.9,13,4,30.8,0,0,-1,-0.9,Loss,0,0
+Arsenal,2024-12-27,Ipswich Town,Home,Matchweek 18,1,0,1.8,1.8,-0.8,-0.8,13,5,38.5,0.08,0.2,1,-0.8,Win,3.08,0
+Inter,2024-12-28,Cagliari,Away,Matchweek 18,3,0,3.2,2.7,-0.2,-0.7,19,4,21.1,0.11,0.5,3,-0.2,Win,2.321,0
+Juventus,2024-12-29,Fiorentina,Home,Matchweek 18,2,2,1.5,1.5,0.5,0.5,15,5,33.3,0.13,0.4,0,0.5,Draw,4.329,0
+Tottenham,2024-12-29,Wolves,Home,Matchweek 19,2,2,2.2,1.5,-0.2,0.5,12,2,16.7,0.17,1,0,-0.2,Draw,2.839,0
+Liverpool,2024-12-29,West Ham,Away,Matchweek 19,5,0,3.1,3.1,1.9,1.9,22,13,59.1,0.23,0.38,5,1.9,Win,13.593,1.9
+Napoli,2024-12-29,Venezia,Home,Matchweek 18,1,0,1.9,1.2,-0.9,-0.2,24,7,29.2,0.04,0.14,1,-0.9,Win,1.168,0
+Milan,2024-12-29,Roma,Home,Matchweek 18,1,1,1.9,1.9,-0.9,-0.9,21,7,33.3,0.05,0.14,0,-0.9,Draw,1.665,0
+Manchester City,2024-12-29,Leicester City,Away,Matchweek 19,2,0,1.3,1.3,0.7,0.7,14,5,35.7,0.14,0.4,2,0.7,Win,4.998,0.7
+Chelsea,2024-12-30,Ipswich Town,Away,Matchweek 19,0,2,2,2,-2,-2,20,4,20,0,0,-2,-2,Loss,0,0
+Manchester Utd,2024-12-30,Newcastle Utd,Home,Matchweek 19,0,2,0.8,0.8,-0.8,-0.8,10,0,0,0,,-2,-0.8,Loss,0,0
+Arsenal,2025-01-01,Brentford,Away,Matchweek 19,3,1,1.9,1.9,1.1,1.1,14,4,28.6,0.21,0.75,2,1.1,Win,6.006,1.1
+Real Madrid,2025-01-03,Valencia,Away,Matchweek 12,2,1,2.7,2,-0.7,0,16,5,31.3,0.13,0.4,1,-0.7,Win,4.069,0
+Arsenal,2025-01-04,Brighton,Away,Matchweek 20,1,1,0.9,0.9,0.1,0.1,9,3,33.3,0.11,0.33,0,0.1,Draw,3.663,0
+Napoli,2025-01-04,Fiorentina,Away,Matchweek 19,3,0,1.6,0.8,1.4,1.2,9,3,33.3,0.22,0.67,3,1.4,Win,7.326,1.4
+Manchester City,2025-01-04,West Ham,Home,Matchweek 20,4,1,1.9,1.9,1.1,1.1,10,7,70,0.3,0.43,3,2.1,Win,21,2.1
+Tottenham,2025-01-04,Newcastle Utd,Home,Matchweek 20,1,2,0.9,0.9,0.1,0.1,13,4,30.8,0.08,0.25,-1,0.1,Loss,2.464,0
+Chelsea,2025-01-04,Crystal Palace,Away,Matchweek 20,1,1,1.2,1.2,-0.2,-0.2,15,1,6.7,0.07,1,0,-0.2,Draw,0.469,0
+Manchester Utd,2025-01-05,Liverpool,Away,Matchweek 20,2,2,1,1,1,1,13,4,30.8,0.15,0.5,0,1,Draw,4.62,0
+Liverpool,2025-01-05,Manchester Utd,Home,Matchweek 20,2,2,2.7,1.9,-0.7,-0.9,18,5,27.8,0.06,0.2,0,-0.7,Draw,1.668,0
+Bayern Munich,2025-01-11,Gladbach,Away,Matchweek 16,1,0,4.3,3.5,-3.3,-3.5,22,9,40.9,0,0,1,-3.3,Win,0,0
+Milan,2025-01-11,Cagliari,Home,Matchweek 20,1,1,2.7,2.7,-1.7,-1.7,24,11,45.8,0.04,0.09,0,-1.7,Draw,1.832,0
+Juventus,2025-01-11,Torino,Away,Matchweek 20,1,1,0.9,0.9,0.1,0.1,15,9,60,0.07,0.11,0,0.1,Draw,4.2,0
+Napoli,2025-01-12,Hellas Verona,Home,Matchweek 20,2,0,1.1,1.1,-0.1,-0.1,14,2,14.3,0.07,0.5,2,0.9,Win,1.001,0.9
+Atletico Madrid,2025-01-12,Osasuna,Home,Matchweek 19,1,0,2.5,2.5,-1.5,-1.5,9,5,55.6,0.11,0.2,1,-1.5,Win,6.116,0
+PSG,2025-01-12,Saint-Étienne,Home,Matchweek 17,2,1,4.1,3.3,-2.1,-2.3,24,8,33.3,0.04,0.13,1,-2.1,Win,1.332,0
+Inter,2025-01-12,Venezia,Away,Matchweek 20,1,0,1.9,1.9,-0.9,-0.9,17,6,35.3,0.06,0.17,1,-0.9,Win,2.118,0
+Manchester City,2025-01-14,Brentford,Away,Matchweek 21,2,2,2.2,2.2,-0.2,-0.2,21,8,38.1,0.1,0.25,0,-0.2,Draw,3.81,0
+Milan,2025-01-14,Como,Away,Matchweek 19,2,1,1.3,1.3,0.7,0.7,12,6,50,0.17,0.33,1,0.7,Win,8.5,0.7
+Juventus,2025-01-14,Atalanta,Away,Matchweek 19,1,1,1.5,1.5,-0.5,-0.5,17,8,47.1,0.06,0.13,0,-0.5,Draw,2.826,0
+Liverpool,2025-01-14,Nott'ham Forest,Away,Matchweek 21,1,1,2,2,-1,-1,23,6,26.1,0.04,0.17,0,-1,Draw,1.044,0
+Chelsea,2025-01-14,Bournemouth,Home,Matchweek 21,2,2,2.5,2.5,-0.5,-0.5,26,10,38.5,0.08,0.2,0,-0.5,Draw,3.08,0
+Arsenal,2025-01-15,Tottenham,Home,Matchweek 21,2,1,1.4,1.4,-0.4,-0.4,14,4,28.6,0.07,0.25,1,0.6,Win,2.002,0.6
+Bayern Munich,2025-01-15,Hoffenheim,Home,Matchweek 17,5,0,3.4,2.6,1.6,1.4,24,9,37.5,0.17,0.44,5,1.6,Win,6.375,1.6
+Inter,2025-01-15,Bologna,Home,Matchweek 19,2,2,1.7,1.7,0.3,0.3,12,6,50,0.17,0.33,0,0.3,Draw,8.5,0
+Tottenham,2025-01-15,Arsenal,Away,Matchweek 21,1,2,0.8,0.8,0.2,0.2,10,2,20,0.1,0.5,-1,0.2,Loss,2,0
+Manchester Utd,2025-01-16,Southampton,Home,Matchweek 21,3,1,3.4,3.4,-0.4,-0.4,23,9,39.1,0.13,0.33,2,-0.4,Win,5.083,0
+Liverpool,2025-01-18,Brentford,Away,Matchweek 22,2,0,3.4,3.4,-1.4,-1.4,37,8,21.6,0.05,0.25,2,-1.4,Win,1.08,0
+PSG,2025-01-18,Lens,Away,Matchweek 18,2,1,1.2,1.2,0.8,0.8,9,7,77.8,0.22,0.29,1,0.8,Win,17.116,0.8
+Barcelona,2025-01-18,Getafe,Away,Matchweek 20,1,1,2.3,2.3,-1.3,-1.3,21,5,23.8,0.05,0.2,0,-1.3,Draw,1.19,0
+Milan,2025-01-18,Juventus,Away,Matchweek 21,0,2,0.9,0.9,-0.9,-0.9,13,1,7.7,0,0,-2,-0.9,Loss,0,0
+Bayern Munich,2025-01-18,Wolfsburg,Home,Matchweek 18,3,2,3,3,0,0,25,10,40,0.12,0.3,1,0,Win,4.8,0
+Juventus,2025-01-18,Milan,Home,Matchweek 21,2,0,1.1,1.1,0.9,0.9,15,6,40,0.13,0.33,2,0.9,Win,5.2,0.9
+Arsenal,2025-01-18,Aston Villa,Home,Matchweek 22,2,2,1.3,1.3,0.7,0.7,18,6,33.3,0.11,0.33,0,0.7,Draw,3.663,0
+Napoli,2025-01-18,Atalanta,Away,Matchweek 21,3,2,0.8,0.8,2.2,2.2,6,3,50,0.5,1,1,2.2,Win,25,2.2
+Atletico Madrid,2025-01-18,Leganés,Away,Matchweek 20,0,1,2.4,1.6,-2.4,-1.6,18,3,16.7,0,0,-1,-2.4,Loss,0,0
+Tottenham,2025-01-19,Everton,Away,Matchweek 22,2,3,1.1,1.1,0.9,0.9,11,5,45.5,0.18,0.4,-1,0.9,Loss,8.19,0
+Real Madrid,2025-01-19,Las Palmas,Home,Matchweek 20,4,1,5.9,5.1,-1.9,-2.1,25,12,48,0.12,0.25,3,-1.9,Win,5.76,0
+Manchester City,2025-01-19,Ipswich Town,Away,Matchweek 22,6,0,3,3,3,3,17,9,52.9,0.35,0.67,6,3,Win,18.515,3
+Inter,2025-01-19,Empoli,Home,Matchweek 21,3,1,2.1,2.1,0.9,0.9,19,7,36.8,0.16,0.43,2,0.9,Win,5.888,0.9
+Manchester Utd,2025-01-19,Brighton,Home,Matchweek 22,1,3,1.5,0.7,-0.5,-0.7,9,0,0,0,,-2,-0.5,Loss,0,0
+Chelsea,2025-01-20,Wolves,Home,Matchweek 22,3,1,3.1,3.1,-0.1,-0.1,19,6,31.6,0.16,0.5,2,-0.1,Win,5.056,0
+Juventus,2025-01-25,Napoli,Away,Matchweek 22,1,2,0.8,0.8,0.2,0.2,5,2,40,0.2,0.5,-1,0.2,Loss,8,0
+Napoli,2025-01-25,Juventus,Home,Matchweek 22,2,1,2.3,1.5,-0.3,-0.5,13,2,15.4,0.08,0.5,1,-0.3,Win,1.232,0
+Atletico Madrid,2025-01-25,Villarreal,Home,Matchweek 21,1,1,1.7,1.7,-0.7,-0.7,20,8,40,0.05,0.13,0,-0.7,Draw,2,0
+PSG,2025-01-25,Reims,Home,Matchweek 19,1,1,1.2,1.2,-0.2,-0.2,18,7,38.9,0.06,0.14,0,-0.2,Draw,2.334,0
+Manchester City,2025-01-25,Chelsea,Home,Matchweek 23,3,1,2.2,2.2,0.8,0.8,15,6,40,0.2,0.5,2,0.8,Win,8,0.8
+Bayern Munich,2025-01-25,Freiburg,Away,Matchweek 19,2,1,1,1,1,1,7,3,42.9,0.29,0.67,1,1,Win,12.441,1
+Chelsea,2025-01-25,Manchester City,Away,Matchweek 23,1,3,1.8,1.8,-0.8,-0.8,10,4,40,0.1,0.25,-2,-0.8,Loss,4,0
+Arsenal,2025-01-25,Wolves,Away,Matchweek 23,1,0,1,1,0,0,9,3,33.3,0.11,0.33,1,0,Win,3.663,0
+Liverpool,2025-01-25,Ipswich Town,Home,Matchweek 23,4,1,2,2,2,2,16,6,37.5,0.25,0.67,3,2,Win,9.375,2
+Real Madrid,2025-01-25,Valladolid,Away,Matchweek 21,3,0,2,1.2,1,0.8,19,3,15.8,0.11,0.67,3,1,Win,1.738,1
+Barcelona,2025-01-26,Valencia,Home,Matchweek 21,7,1,4.4,4.4,1.6,1.6,22,11,50,0.27,0.55,6,2.6,Win,13.5,2.6
+Manchester Utd,2025-01-26,Fulham,Away,Matchweek 23,1,0,0.3,0.3,0.7,0.7,4,1,25,0.25,1,1,0.7,Win,6.25,0.7
+Milan,2025-01-26,Parma,Home,Matchweek 22,3,2,2.2,1.5,0.8,0.5,13,4,30.8,0.15,0.5,1,0.8,Win,4.62,0.8
+Inter,2025-01-26,Lecce,Away,Matchweek 22,4,0,2.1,1.3,1.9,1.7,8,4,50,0.38,0.75,4,1.9,Win,19,1.9
+Tottenham,2025-01-26,Leicester City,Home,Matchweek 23,1,2,1,1,0,0,15,6,40,0.07,0.17,-1,0,Loss,2.8,0
+Real Madrid,2025-02-01,Espanyol,Away,Matchweek 22,0,1,1.3,1.3,-1.3,-1.3,21,7,33.3,0,0,-1,-1.3,Loss,0,0
+Bayern Munich,2025-02-01,Holstein Kiel,Home,Matchweek 20,4,3,3.4,3.4,0.6,0.6,29,11,37.9,0.14,0.36,1,0.6,Win,5.306,0.6
+Liverpool,2025-02-01,Bournemouth,Away,Matchweek 24,2,0,2.5,1.7,-0.5,-0.7,18,6,33.3,0.06,0.17,2,-0.5,Win,1.998,0
+PSG,2025-02-01,Brest,Away,Matchweek 20,5,2,3.6,3.6,1.4,1.4,14,7,50,0.36,0.71,3,1.4,Win,18,1.4
+Atletico Madrid,2025-02-01,Mallorca,Home,Matchweek 22,2,0,1.3,1.3,0.7,0.7,17,5,29.4,0.12,0.4,2,0.7,Win,3.528,0.7
+Manchester City,2025-02-02,Arsenal,Away,Matchweek 24,1,5,0.8,0.8,0.2,0.2,7,4,57.1,0.14,0.25,-4,0.2,Loss,7.994,0
+Inter,2025-02-02,Milan,Away,Matchweek 23,1,1,1.3,1.3,-0.3,-0.3,16,6,37.5,0.06,0.17,0,-0.3,Draw,2.25,0
+Arsenal,2025-02-02,Manchester City,Home,Matchweek 24,5,1,1,1,4,4,12,7,58.3,0.42,0.71,4,4,Win,24.486,4
+Tottenham,2025-02-02,Brentford,Away,Matchweek 24,2,0,0.8,0.8,0.2,0.2,13,2,15.4,0.08,0.5,2,1.2,Win,1.232,1.2
+Juventus,2025-02-02,Empoli,Home,Matchweek 23,4,1,1.8,1.8,2.2,2.2,23,8,34.8,0.17,0.5,3,2.2,Win,5.916,2.2
+Manchester Utd,2025-02-02,Crystal Palace,Home,Matchweek 24,0,2,1.1,1.1,-1.1,-1.1,17,2,11.8,0,0,-2,-1.1,Loss,0,0
+Barcelona,2025-02-02,Alavés,Home,Matchweek 22,1,0,1,1,0,0,11,4,36.4,0.09,0.25,1,0,Win,3.276,0
+Milan,2025-02-02,Inter,Home,Matchweek 23,1,1,0.6,0.6,0.4,0.4,10,4,40,0.1,0.25,0,0.4,Draw,4,0
+Napoli,2025-02-02,Roma,Away,Matchweek 23,1,1,0.4,0.4,0.6,0.6,5,2,40,0.2,0.5,0,0.6,Draw,8,0
+Chelsea,2025-02-03,West Ham,Home,Matchweek 24,2,1,1.6,1.6,-0.6,-0.6,22,3,13.6,0.05,0.33,1,0.4,Win,0.68,0.4
+Inter,2025-02-06,Fiorentina,Away,Matchweek 14,0,3,0.4,0.4,-0.4,-0.4,11,2,18.2,0,0,-3,-0.4,Loss,0,0
+Juventus,2025-02-07,Como,Away,Matchweek 24,2,1,1.1,0.4,0.9,0.6,7,2,28.6,0.14,0.5,1,0.9,Win,4.004,0.9
+Bayern Munich,2025-02-07,Werder Bremen,Home,Matchweek 21,3,0,4.1,2.5,-1.1,-1.5,19,10,52.6,0.05,0.1,3,-1.1,Win,2.63,0
+PSG,2025-02-07,Monaco,Home,Matchweek 21,4,1,3.1,3.1,0.9,0.9,16,7,43.8,0.25,0.57,3,0.9,Win,10.95,0.9
+Atletico Madrid,2025-02-08,Real Madrid,Away,Matchweek 23,1,1,1.5,0.7,-0.5,-0.7,9,0,0,0,,0,-0.5,Draw,0,0
+Real Madrid,2025-02-08,Atlético Madrid,Home,Matchweek 23,1,1,1.6,1.6,-0.6,-0.6,23,9,39.1,0.04,0.11,0,-0.6,Draw,1.564,0
+Milan,2025-02-08,Empoli,Away,Matchweek 24,2,0,1.3,1.3,0.7,0.7,16,5,31.3,0.13,0.4,2,0.7,Win,4.069,0.7
+Napoli,2025-02-09,Udinese,Home,Matchweek 24,1,1,1.1,1.1,-0.1,-0.1,18,4,22.2,0.06,0.25,0,-0.1,Draw,1.332,0
+Barcelona,2025-02-09,Sevilla,Away,Matchweek 23,4,1,1.9,1.9,2.1,2.1,10,6,60,0.4,0.67,3,2.1,Win,24,2.1
+Inter,2025-02-10,Fiorentina,Home,Matchweek 24,2,1,2.2,2.2,-1.2,-1.2,22,8,36.4,0.05,0.13,1,-0.2,Win,1.82,0
+Liverpool,2025-02-12,Everton,Away,Matchweek 15,2,2,0.6,0.6,1.4,1.4,6,4,66.7,0.33,0.5,0,1.4,Draw,22.011,0
+Chelsea,2025-02-14,Brighton,Away,Matchweek 25,0,3,0.5,0.5,-0.5,-0.5,8,0,0,0,,-3,-0.5,Loss,0,0
+PSG,2025-02-15,Toulouse,Away,Matchweek 22,1,0,2.4,2.4,-1.4,-1.4,20,6,30,0.05,0.17,1,-1.4,Win,1.5,0
+Napoli,2025-02-15,Lazio,Away,Matchweek 25,2,2,0.3,0.3,0.7,0.7,5,2,40,0.2,0.5,0,1.7,Draw,8,0
+Manchester City,2025-02-15,Newcastle Utd,Home,Matchweek 25,4,0,1.9,1.9,2.1,2.1,11,7,63.6,0.36,0.57,4,2.1,Win,22.896,2.1
+Milan,2025-02-15,Hellas Verona,Home,Matchweek 25,1,0,2.1,2.1,-1.1,-1.1,18,3,16.7,0.06,0.33,1,-1.1,Win,1.002,0
+Atletico Madrid,2025-02-15,Celta Vigo,Home,Matchweek 24,1,1,0.6,0.6,0.4,0.4,9,3,33.3,0.11,0.33,0,0.4,Draw,3.663,0
+Arsenal,2025-02-15,Leicester City,Away,Matchweek 25,2,0,1.4,1.4,0.6,0.6,11,5,45.5,0.18,0.4,2,0.6,Win,8.19,0.6
+Bayern Munich,2025-02-15,Leverkusen,Away,Matchweek 22,0,0,0,0,0,0,2,0,0,0,,0,0,Draw,0,0
+Real Madrid,2025-02-15,Osasuna,Away,Matchweek 24,1,1,1.4,1.4,-0.4,-0.4,17,5,29.4,0.06,0.2,0,-0.4,Draw,1.764,0
+Inter,2025-02-16,Juventus,Away,Matchweek 25,0,1,1.8,1.8,-1.8,-1.8,17,2,11.8,0,0,-1,-1.8,Loss,0,0
+Tottenham,2025-02-16,Manchester Utd,Home,Matchweek 25,1,0,2.2,2.2,-1.2,-1.2,22,7,31.8,0.05,0.14,1,-1.2,Win,1.59,0
+Juventus,2025-02-16,Inter,Home,Matchweek 25,1,0,1.2,1.2,-0.2,-0.2,16,7,43.8,0.06,0.14,1,-0.2,Win,2.628,0
+Manchester Utd,2025-02-16,Tottenham,Away,Matchweek 25,0,1,1.5,1.5,-1.5,-1.5,16,6,37.5,0,0,-1,-1.5,Loss,0,0
+Liverpool,2025-02-16,Wolves,Home,Matchweek 25,2,1,1.7,0.9,0.3,0.1,9,2,22.2,0.11,0.5,1,0.3,Win,2.442,0.3
+Barcelona,2025-02-17,Rayo Vallecano,Home,Matchweek 24,1,0,2.3,1.6,-1.3,-1.6,13,4,30.8,0,0,1,-1.3,Win,0,0
+Liverpool,2025-02-19,Aston Villa,Away,Matchweek 29,2,2,2.5,2.5,-0.5,-0.5,17,3,17.6,0.12,0.67,0,-0.5,Draw,2.112,0
+Barcelona,2025-02-22,Las Palmas,Away,Matchweek 25,2,0,1.4,1.4,0.6,0.6,15,5,33.3,0.13,0.4,2,0.6,Win,4.329,0.6
+Chelsea,2025-02-22,Aston Villa,Away,Matchweek 26,1,2,2.3,2.3,-1.3,-1.3,15,6,40,0.07,0.17,-1,-1.3,Loss,2.8,0
+Milan,2025-02-22,Torino,Away,Matchweek 26,1,2,2.4,1.6,-1.4,-0.6,25,7,28,0.04,0.14,-1,-1.4,Loss,1.12,0
+Tottenham,2025-02-22,Ipswich Town,Away,Matchweek 26,4,1,1.7,1.7,2.3,2.3,10,6,60,0.4,0.67,3,2.3,Win,24,2.3
+Atletico Madrid,2025-02-22,Valencia,Away,Matchweek 25,3,0,1.3,1.3,1.7,1.7,11,3,27.3,0.27,1,3,1.7,Win,7.371,1.7
+Inter,2025-02-22,Genoa,Home,Matchweek 26,1,0,1.5,1.5,-0.5,-0.5,18,4,22.2,0.06,0.25,1,-0.5,Win,1.332,0
+Arsenal,2025-02-22,West Ham,Home,Matchweek 26,0,1,1.2,1.2,-1.2,-1.2,20,2,10,0,0,-1,-1.2,Loss,0,0
+Manchester Utd,2025-02-22,Everton,Away,Matchweek 26,2,2,0.4,0.4,1.6,1.6,9,3,33.3,0.22,0.67,0,1.6,Draw,7.326,0
+Juventus,2025-02-23,Cagliari,Away,Matchweek 26,1,0,2.1,2.1,-1.1,-1.1,14,7,50,0.07,0.14,1,-1.1,Win,3.5,0
+Real Madrid,2025-02-23,Girona,Home,Matchweek 25,2,0,2.2,2.2,-0.2,-0.2,22,5,22.7,0.09,0.4,2,-0.2,Win,2.043,0
+Liverpool,2025-02-23,Manchester City,Away,Matchweek 26,2,0,0.7,0.7,1.3,1.3,8,4,50,0.25,0.5,2,1.3,Win,12.5,1.3
+Manchester City,2025-02-23,Liverpool,Home,Matchweek 26,0,2,0.6,0.6,-0.6,-0.6,16,5,31.3,0,0,-2,-0.6,Loss,0,0
+Napoli,2025-02-23,Como,Away,Matchweek 26,1,2,1.2,1.2,-0.2,-0.2,13,4,30.8,0.08,0.25,-1,-0.2,Loss,2.464,0
+PSG,2025-02-23,Lyon,Away,Matchweek 23,3,2,2.3,2.3,0.7,0.7,15,7,46.7,0.2,0.43,1,0.7,Win,9.34,0.7
+Bayern Munich,2025-02-23,Eint Frankfurt,Home,Matchweek 23,4,0,3.8,3.8,0.2,0.2,19,10,52.6,0.21,0.4,4,0.2,Win,11.046,0.2
+Chelsea,2025-02-25,Southampton,Home,Matchweek 27,4,0,2.4,2.4,1.6,1.6,19,10,52.6,0.21,0.4,4,1.6,Win,11.046,1.6
+Arsenal,2025-02-26,Nott'ham Forest,Away,Matchweek 27,0,0,1,1,-1,-1,13,1,7.7,0,0,0,-1,Draw,0,0
+Liverpool,2025-02-26,Newcastle Utd,Home,Matchweek 27,2,0,1.7,1.7,0.3,0.3,12,3,25,0.17,0.67,2,0.3,Win,4.25,0.3
+Manchester City,2025-02-26,Tottenham,Away,Matchweek 27,1,0,2.1,2.1,-1.1,-1.1,12,5,41.7,0.08,0.2,1,-1.1,Win,3.336,0
+Manchester Utd,2025-02-26,Ipswich Town,Home,Matchweek 27,3,2,0.7,0.7,1.3,1.3,10,6,60,0.2,0.33,1,2.3,Win,12,2.3
+Tottenham,2025-02-26,Manchester City,Home,Matchweek 27,0,1,1.3,1.3,-1.3,-1.3,11,6,54.5,0,0,-1,-1.3,Loss,0,0
+Milan,2025-02-27,Bologna,Away,Matchweek 9,1,2,0.8,0.8,0.2,0.2,8,4,50,0.13,0.25,-1,0.2,Loss,6.5,0
+Bayern Munich,2025-02-28,Stuttgart,Away,Matchweek 24,3,1,2.2,2.2,0.8,0.8,17,8,47.1,0.18,0.38,2,0.8,Win,8.478,0.8
+Atletico Madrid,2025-03-01,Athletic Club,Home,Matchweek 26,1,0,2.2,2.2,-1.2,-1.2,12,4,33.3,0.08,0.25,1,-1.2,Win,2.664,0
+Real Madrid,2025-03-01,Betis,Away,Matchweek 26,1,2,0.9,0.9,0.1,0.1,9,2,22.2,0.11,0.5,-1,0.1,Loss,2.442,0
+Inter,2025-03-01,Napoli,Away,Matchweek 27,1,1,0.3,0.3,0.7,0.7,6,1,16.7,0.17,1,0,0.7,Draw,2.839,0
+PSG,2025-03-01,Lille,Home,Matchweek 24,4,1,3.4,3.4,0.6,0.6,26,11,42.3,0.15,0.36,3,0.6,Win,6.345,0.6
+Napoli,2025-03-01,Inter,Home,Matchweek 27,1,1,1.8,1.8,-0.8,-0.8,19,4,21.1,0.05,0.25,0,-0.8,Draw,1.055,0
+Barcelona,2025-03-02,Real Sociedad,Home,Matchweek 26,4,0,2.8,2.8,1.2,1.2,33,10,30.3,0.12,0.4,4,1.2,Win,3.636,1.2
+Milan,2025-03-02,Lazio,Home,Matchweek 27,1,2,1.4,1.4,-0.4,-0.4,15,4,26.7,0.07,0.25,-1,-0.4,Loss,1.869,0
+Juventus,2025-03-03,Hellas Verona,Home,Matchweek 27,2,0,2,2,0,0,27,9,33.3,0.07,0.22,2,0,Win,2.331,0
+Manchester City,2025-03-08,Nott'ham Forest,Away,Matchweek 28,0,1,0.9,0.9,-0.9,-0.9,14,3,21.4,0,0,-1,-0.9,Loss,0,0
+Liverpool,2025-03-08,Southampton,Home,Matchweek 28,3,1,3.9,2.4,-0.9,-1.4,26,5,19.2,0.04,0.2,2,-0.9,Win,0.768,0
+PSG,2025-03-08,Rennes,Away,Matchweek 25,4,1,3.8,3.8,0.2,0.2,19,9,47.4,0.21,0.44,3,0.2,Win,9.954,0.2
+Inter,2025-03-08,Monza,Home,Matchweek 28,3,2,2.6,2.6,-0.6,-0.6,30,9,30,0.07,0.22,1,0.4,Win,2.1,0.4
+Milan,2025-03-08,Lecce,Away,Matchweek 28,3,2,3.5,2.7,-1.5,-1.7,15,8,53.3,0.07,0.13,1,-0.5,Win,3.731,0
+Bayern Munich,2025-03-08,Bochum,Home,Matchweek 25,2,3,2.4,1.6,-0.4,0.4,13,5,38.5,0.15,0.4,-1,-0.4,Loss,5.775,0
+Napoli,2025-03-09,Fiorentina,Home,Matchweek 28,2,1,2.8,2.8,-0.8,-0.8,19,11,57.9,0.11,0.18,1,-0.8,Win,6.369,0
+Juventus,2025-03-09,Atalanta,Home,Matchweek 28,0,4,0.9,0.9,-0.9,-0.9,9,2,22.2,0,0,-4,-0.9,Loss,0,0
+Real Madrid,2025-03-09,Rayo Vallecano,Home,Matchweek 27,2,1,1.5,1.5,0.5,0.5,10,5,50,0.2,0.4,1,0.5,Win,10,0.5
+Chelsea,2025-03-09,Leicester City,Home,Matchweek 28,1,0,1.7,0.9,-0.7,0.1,19,6,31.6,0.05,0.17,1,-0.7,Win,1.58,0
+Manchester Utd,2025-03-09,Arsenal,Home,Matchweek 28,1,1,1.5,1.5,-0.5,-0.5,10,6,60,0.1,0.17,0,-0.5,Draw,6,0
+Atletico Madrid,2025-03-09,Getafe,Away,Matchweek 27,1,2,0.9,0.2,0.1,-0.2,3,1,33.3,0,0,-1,0.1,Loss,0,0
+Tottenham,2025-03-09,Bournemouth,Home,Matchweek 28,2,2,1.5,0.7,0.5,0.3,11,3,27.3,0.09,0.33,0,0.5,Draw,2.457,0
+Arsenal,2025-03-09,Manchester Utd,Away,Matchweek 28,1,1,1.6,1.6,-0.6,-0.6,17,6,35.3,0.06,0.17,0,-0.6,Draw,2.118,0
+Real Madrid,2025-03-15,Villarreal,Away,Matchweek 28,2,1,1.1,1.1,0.9,0.9,9,5,55.6,0.22,0.4,1,0.9,Win,12.232,0.9
+Manchester City,2025-03-15,Brighton,Home,Matchweek 29,2,2,1.7,0.9,0.3,0.1,10,2,20,0.1,0.5,0,0.3,Draw,2,0
+Bayern Munich,2025-03-15,Union Berlin,Away,Matchweek 26,1,1,1.6,1.6,-0.6,-0.6,18,4,22.2,0.06,0.25,0,-0.6,Draw,1.332,0
+Milan,2025-03-15,Como,Home,Matchweek 29,2,1,1.3,1.3,0.7,0.7,9,3,33.3,0.22,0.67,1,0.7,Win,7.326,0.7
+Chelsea,2025-03-16,Arsenal,Away,Matchweek 29,0,1,0.4,0.4,-0.4,-0.4,8,2,25,0,0,-1,-0.4,Loss,0,0
+Arsenal,2025-03-16,Chelsea,Home,Matchweek 29,1,0,0.7,0.7,0.3,0.3,12,4,33.3,0.08,0.25,1,0.3,Win,2.664,0.3
+Tottenham,2025-03-16,Fulham,Away,Matchweek 29,0,2,0.9,0.9,-0.9,-0.9,12,4,33.3,0,0,-2,-0.9,Loss,0,0
+Barcelona,2025-03-16,Atlético Madrid,Away,Matchweek 28,4,2,1.3,1.3,2.7,2.7,13,6,46.2,0.31,0.67,2,2.7,Win,14.322,2.7
+Atletico Madrid,2025-03-16,Barcelona,Home,Matchweek 28,2,4,1.4,1.4,0.6,0.6,7,2,28.6,0.29,1,-2,0.6,Loss,8.294,0
+PSG,2025-03-16,Marseille,Home,Matchweek 26,3,1,2.6,2.6,-0.6,-0.6,16,5,31.3,0.13,0.4,2,0.4,Win,4.069,0.4
+Napoli,2025-03-16,Venezia,Away,Matchweek 29,0,0,1.7,1.7,-1.7,-1.7,15,7,46.7,0,0,0,-1.7,Draw,0,0
+Manchester Utd,2025-03-16,Leicester City,Away,Matchweek 29,3,0,0.9,0.9,2.1,2.1,18,5,27.8,0.17,0.6,3,2.1,Win,4.726,2.1
+Juventus,2025-03-16,Fiorentina,Away,Matchweek 29,0,3,0.8,0.8,-0.8,-0.8,11,2,18.2,0,0,-3,-0.8,Loss,0,0
+Inter,2025-03-16,Atalanta,Away,Matchweek 29,2,0,2.2,2.2,-0.2,-0.2,14,4,28.6,0.14,0.5,2,-0.2,Win,4.004,0
+Barcelona,2025-03-27,Osasuna,Home,Matchweek 27,3,0,3.7,2.9,-0.7,-0.9,18,4,22.2,0.11,0.5,3,-0.7,Win,2.442,0
+PSG,2025-03-29,Saint-Étienne,Away,Matchweek 27,6,1,3.3,2.5,2.7,2.5,21,9,42.9,0.24,0.56,5,2.7,Win,10.296,2.7
+Real Madrid,2025-03-29,Leganés,Home,Matchweek 29,3,2,2.9,2.1,0.1,-0.1,23,8,34.8,0.09,0.25,1,0.1,Win,3.132,0.1
+Juventus,2025-03-29,Genoa,Home,Matchweek 30,1,0,0.9,0.9,0.1,0.1,9,6,66.7,0.11,0.17,1,0.1,Win,7.337,0.1
+Bayern Munich,2025-03-29,St. Pauli,Home,Matchweek 27,3,2,3.5,3.5,-0.5,-0.5,19,8,42.1,0.16,0.38,1,-0.5,Win,6.736,0
+Atletico Madrid,2025-03-29,Espanyol,Away,Matchweek 29,1,1,0.8,0.8,0.2,0.2,13,2,15.4,0.08,0.5,0,0.2,Draw,1.232,0
+Inter,2025-03-30,Udinese,Home,Matchweek 30,2,1,1.7,1.7,0.3,0.3,13,2,15.4,0.15,1,1,0.3,Win,2.31,0.3
+Napoli,2025-03-30,Milan,Home,Matchweek 30,2,1,1,1,1,1,8,3,37.5,0.25,0.67,1,1,Win,9.375,1
+Milan,2025-03-30,Napoli,Away,Matchweek 30,1,2,2.6,1.8,-1.6,-0.8,16,3,18.8,0.06,0.33,-1,-1.6,Loss,1.128,0
+Barcelona,2025-03-30,Girona,Home,Matchweek 29,4,1,2.3,2.3,0.7,0.7,21,9,42.9,0.14,0.33,3,1.7,Win,6.006,1.7
+Manchester Utd,2025-04-01,Nott'ham Forest,Away,Matchweek 30,0,1,1.6,1.6,-1.6,-1.6,23,5,21.7,0,0,-1,-1.6,Loss,0,0
+Arsenal,2025-04-01,Fulham,Home,Matchweek 30,2,1,2.2,2.2,-0.2,-0.2,17,4,23.5,0.12,0.5,1,-0.2,Win,2.82,0
+Liverpool,2025-04-02,Everton,Home,Matchweek 30,1,0,1.5,1.5,-0.5,-0.5,17,3,17.6,0.06,0.33,1,-0.5,Win,1.056,0
+Manchester City,2025-04-02,Leicester City,Home,Matchweek 30,2,0,2.2,2.2,-0.2,-0.2,18,5,27.8,0.11,0.4,2,-0.2,Win,3.058,0
+Tottenham,2025-04-03,Chelsea,Away,Matchweek 30,0,1,0.9,0.9,-0.9,-0.9,8,2,25,0,0,-1,-0.9,Loss,0,0
+Chelsea,2025-04-03,Tottenham,Home,Matchweek 30,1,0,1,1,0,0,11,5,45.5,0.09,0.2,1,0,Win,4.095,0
+Bayern Munich,2025-04-04,Augsburg,Away,Matchweek 28,3,1,2.4,2.4,-0.4,-0.4,19,7,36.8,0.11,0.29,2,0.6,Win,4.048,0.6
+Arsenal,2025-04-05,Everton,Away,Matchweek 31,1,1,1.8,1.8,-0.8,-0.8,14,4,28.6,0.07,0.25,0,-0.8,Draw,2.002,0
+Real Madrid,2025-04-05,Valencia,Home,Matchweek 30,1,2,3.4,2.6,-2.4,-1.6,20,8,40,0.05,0.13,-1,-2.4,Loss,2,0
+PSG,2025-04-05,Angers,Home,Matchweek 28,1,0,1.9,1.9,-0.9,-0.9,20,6,30,0.05,0.17,1,-0.9,Win,1.5,0
+Inter,2025-04-05,Parma,Away,Matchweek 31,2,2,2,2,0,0,20,4,20,0.1,0.5,0,0,Draw,2,0
+Milan,2025-04-05,Fiorentina,Home,Matchweek 31,2,2,2.6,2.6,-0.6,-0.6,19,6,31.6,0.11,0.33,0,-0.6,Draw,3.476,0
+Barcelona,2025-04-05,Betis,Home,Matchweek 30,1,1,1.4,1.4,-0.4,-0.4,13,5,38.5,0.08,0.2,0,-0.4,Draw,3.08,0
+Juventus,2025-04-06,Roma,Away,Matchweek 31,1,1,0.8,0.8,0.2,0.2,11,7,63.6,0.09,0.14,0,0.2,Draw,5.724,0
+Tottenham,2025-04-06,Southampton,Home,Matchweek 31,3,1,2.1,1.3,0.9,0.7,12,7,58.3,0.17,0.29,2,0.9,Win,9.911,0.9
+Chelsea,2025-04-06,Brentford,Away,Matchweek 31,0,0,1.2,1.2,-1.2,-1.2,21,5,23.8,0,0,0,-1.2,Draw,0,0
+Liverpool,2025-04-06,Fulham,Away,Matchweek 31,2,3,1.5,1.5,0.5,0.5,14,6,42.9,0.14,0.33,-1,0.5,Loss,6.006,0
+Manchester Utd,2025-04-06,Manchester City,Home,Matchweek 31,0,0,0.9,0.9,-0.9,-0.9,13,2,15.4,0,0,0,-0.9,Draw,0,0
+Manchester City,2025-04-06,Manchester Utd,Away,Matchweek 31,0,0,0.5,0.5,-0.5,-0.5,9,5,55.6,0,0,0,-0.5,Draw,0,0
+Atletico Madrid,2025-04-06,Sevilla,Away,Matchweek 30,2,1,1.3,0.6,0.7,0.4,12,4,33.3,0.08,0.25,1,0.7,Win,2.664,0.7
+Napoli,2025-04-07,Bologna,Away,Matchweek 31,1,1,1.2,1.2,-0.2,-0.2,6,2,33.3,0.17,0.5,0,-0.2,Draw,5.661,0
+Milan,2025-04-11,Udinese,Away,Matchweek 32,4,0,2.1,2.1,1.9,1.9,15,7,46.7,0.27,0.57,4,1.9,Win,12.609,1.9
+Juventus,2025-04-12,Lecce,Home,Matchweek 32,2,1,1.5,1.5,0.5,0.5,22,7,31.8,0.09,0.29,1,0.5,Win,2.862,0.5
+Bayern Munich,2025-04-12,Dortmund,Home,Matchweek 29,2,2,2.3,2.3,-0.3,-0.3,28,11,39.3,0.07,0.18,0,-0.3,Draw,2.751,0
+Inter,2025-04-12,Cagliari,Home,Matchweek 32,3,1,1.8,1.8,1.2,1.2,13,4,30.8,0.23,0.75,2,1.2,Win,7.084,1.2
+Arsenal,2025-04-12,Brentford,Home,Matchweek 32,1,1,1,1,0,0,14,3,21.4,0.07,0.33,0,0,Draw,1.498,0
+Manchester City,2025-04-12,Crystal Palace,Home,Matchweek 32,5,2,3.7,3.7,1.3,1.3,21,8,38.1,0.24,0.63,3,1.3,Win,9.144,1.3
+Barcelona,2025-04-12,Leganés,Away,Matchweek 31,1,0,1.4,1.4,-1.4,-1.4,12,3,25,0,0,1,-0.4,Win,0,0
+Tottenham,2025-04-13,Wolves,Away,Matchweek 32,2,4,2,2,0,0,11,4,36.4,0.18,0.5,-2,0,Loss,6.552,0
+Chelsea,2025-04-13,Ipswich Town,Home,Matchweek 32,2,2,2.2,2.2,-1.2,-1.2,34,9,26.5,0.03,0.11,0,-0.2,Draw,0.795,0
+Real Madrid,2025-04-13,Alavés,Away,Matchweek 31,1,0,0.9,0.9,0.1,0.1,11,3,27.3,0.09,0.33,1,0.1,Win,2.457,0.1
+Manchester Utd,2025-04-13,Newcastle Utd,Away,Matchweek 32,1,4,0.7,0.7,0.3,0.3,9,5,55.6,0.11,0.2,-3,0.3,Loss,6.116,0
+Liverpool,2025-04-13,West Ham,Home,Matchweek 32,2,1,1.8,1.8,0.2,0.2,15,6,40,0.13,0.33,1,0.2,Win,5.2,0.2
+Atletico Madrid,2025-04-14,Valladolid,Home,Matchweek 31,4,2,3.4,1.8,0.6,0.2,22,7,31.8,0.09,0.29,2,0.6,Win,2.862,0.6
+Napoli,2025-04-14,Empoli,Home,Matchweek 32,3,0,2,2,1,1,17,6,35.3,0.18,0.5,3,1,Win,6.354,1
+Napoli,2025-04-19,Monza,Away,Matchweek 33,1,0,1.5,1.5,-0.5,-0.5,16,5,31.3,0.06,0.2,1,-0.5,Win,1.878,0
+PSG,2025-04-19,Le Havre,Home,Matchweek 30,2,1,3,3,-1,-1,18,11,61.1,0.11,0.18,1,-1,Win,6.721,0
+Bayern Munich,2025-04-19,Heidenheim,Away,Matchweek 30,4,0,3.2,3.2,0.8,0.8,18,11,61.1,0.22,0.36,4,0.8,Win,13.442,0.8
+Atletico Madrid,2025-04-19,Las Palmas,Away,Matchweek 32,0,1,0.8,0.8,-0.8,-0.8,7,2,28.6,0,0,-1,-0.8,Loss,0,0
+Barcelona,2025-04-19,Celta Vigo,Home,Matchweek 32,4,3,2.9,2.1,1.1,0.9,17,5,29.4,0.18,0.6,1,1.1,Win,5.292,1.1
+Manchester City,2025-04-19,Everton,Away,Matchweek 33,2,0,2,2,0,0,12,6,50,0.17,0.33,2,0,Win,8.5,0
+Manchester Utd,2025-04-20,Wolves,Home,Matchweek 33,0,1,1.3,1.3,-1.3,-1.3,12,2,16.7,0,0,-1,-1.3,Loss,0,0
+Real Madrid,2025-04-20,Athletic Club,Home,Matchweek 32,1,0,1.5,1.5,-0.5,-0.5,22,7,31.8,0.05,0.14,1,-0.5,Win,1.59,0
+Milan,2025-04-20,Atalanta,Home,Matchweek 33,0,1,0.6,0.6,-0.6,-0.6,12,1,8.3,0,0,-1,-0.6,Loss,0,0
+Arsenal,2025-04-20,Ipswich Town,Away,Matchweek 33,4,0,2.4,2.4,1.6,1.6,24,7,29.2,0.17,0.57,4,1.6,Win,4.964,1.6
+Chelsea,2025-04-20,Fulham,Away,Matchweek 33,2,1,0.9,0.9,1.1,1.1,13,7,53.8,0.15,0.29,1,1.1,Win,8.07,1.1
+Inter,2025-04-20,Bologna,Away,Matchweek 33,0,1,0.5,0.5,-0.5,-0.5,8,1,12.5,0,0,-1,-0.5,Loss,0,0
+Liverpool,2025-04-20,Leicester City,Away,Matchweek 33,1,0,2.5,2.5,-1.5,-1.5,28,8,28.6,0.04,0.13,1,-1.5,Win,1.144,0
+Tottenham,2025-04-21,Nott'ham Forest,Home,Matchweek 33,1,2,2.1,2.1,-1.1,-1.1,22,5,22.7,0.05,0.2,-1,-1.1,Loss,1.135,0
+PSG,2025-04-22,Nantes,Away,Matchweek 29,1,1,1.6,1.6,-0.6,-0.6,10,5,50,0.1,0.2,0,-0.6,Draw,5,0
+Manchester City,2025-04-22,Aston Villa,Home,Matchweek 34,2,1,1.3,1.3,0.7,0.7,14,6,42.9,0.14,0.33,1,0.7,Win,6.006,0.7
+Barcelona,2025-04-22,Mallorca,Home,Matchweek 33,1,0,3.3,3.3,-2.3,-2.3,40,12,30,0.03,0.08,1,-2.3,Win,0.9,0
+Arsenal,2025-04-23,Crystal Palace,Home,Matchweek 34,2,2,1.2,1.2,0.8,0.8,12,4,33.3,0.17,0.5,0,0.8,Draw,5.661,0
+Real Madrid,2025-04-23,Getafe,Away,Matchweek 33,1,0,1.5,1.5,-0.5,-0.5,14,6,42.9,0.07,0.17,1,-0.5,Win,3.003,0
+Juventus,2025-04-23,Parma,Away,Matchweek 33,0,1,0.8,0.8,-0.8,-0.8,16,2,12.5,0,0,-1,-0.8,Loss,0,0
+Atletico Madrid,2025-04-24,Rayo Vallecano,Home,Matchweek 33,3,0,2.3,2.3,0.7,0.7,11,6,54.5,0.27,0.5,3,0.7,Win,14.715,0.7
+PSG,2025-04-25,Nice,Home,Matchweek 31,1,3,3,3,-2,-2,32,13,40.6,0.03,0.08,-2,-2,Loss,1.218,0
+Chelsea,2025-04-26,Everton,Home,Matchweek 34,1,0,0.8,0.8,0.2,0.2,10,7,70,0.1,0.14,1,0.2,Win,7,0.2
+Bayern Munich,2025-04-26,Mainz 05,Home,Matchweek 31,3,0,1.1,1.1,1.9,1.9,14,6,42.9,0.21,0.5,3,1.9,Win,9.009,1.9
+Inter,2025-04-27,Roma,Home,Matchweek 34,0,1,1.1,1.1,-1.1,-1.1,17,2,11.8,0,0,-1,-1.1,Loss,0,0
+Napoli,2025-04-27,Torino,Home,Matchweek 34,2,0,1.1,1.1,0.9,0.9,8,2,25,0.25,1,2,0.9,Win,6.25,0.9
+Milan,2025-04-27,Venezia,Away,Matchweek 34,2,0,1.6,1.6,0.4,0.4,11,2,18.2,0.18,1,2,0.4,Win,3.276,0.4
+Tottenham,2025-04-27,Liverpool,Away,Matchweek 34,1,5,0.5,0.5,0.5,0.5,8,3,37.5,0.13,0.33,-4,0.5,Loss,4.875,0
+Manchester Utd,2025-04-27,Bournemouth,Away,Matchweek 34,1,1,2.3,2.3,-1.3,-1.3,25,6,24,0.04,0.17,0,-1.3,Draw,0.96,0
+Juventus,2025-04-27,Monza,Home,Matchweek 34,2,0,1.4,1.4,0.6,0.6,10,5,50,0.2,0.4,2,0.6,Win,10,0.6
+Liverpool,2025-04-27,Tottenham,Home,Matchweek 34,5,1,2.2,2.2,1.8,1.8,25,6,24,0.16,0.67,4,2.8,Win,3.84,2.8
+Manchester City,2025-05-02,Wolves,Home,Matchweek 35,1,0,0.7,0.7,0.3,0.3,9,2,22.2,0.11,0.5,1,0.3,Win,2.442,0.3
+Arsenal,2025-05-03,Bournemouth,Home,Matchweek 35,1,2,1.4,1.4,-0.4,-0.4,13,4,30.8,0.08,0.25,-1,-0.4,Loss,2.464,0
+Atletico Madrid,2025-05-03,Alavés,Away,Matchweek 34,0,0,0.5,0.5,-0.5,-0.5,9,2,22.2,0,0,0,-0.5,Draw,0,0
+Napoli,2025-05-03,Lecce,Away,Matchweek 35,1,0,0.6,0.6,0.4,0.4,8,2,25,0.13,0.5,1,0.4,Win,3.25,0.4
+Barcelona,2025-05-03,Valladolid,Away,Matchweek 34,2,1,1.9,1.9,0.1,0.1,24,6,25,0.08,0.33,1,0.1,Win,2,0.1
+Inter,2025-05-03,Hellas Verona,Home,Matchweek 35,1,0,1.3,0.6,-0.3,-0.6,8,1,12.5,0,0,1,-0.3,Win,0,0
+Bayern Munich,2025-05-03,RB Leipzig,Away,Matchweek 32,3,3,1.6,1.6,1.4,1.4,20,6,30,0.15,0.5,0,1.4,Draw,4.5,0
+PSG,2025-05-03,Strasbourg,Away,Matchweek 32,1,2,1.7,1.7,-0.7,-0.7,20,4,20,0.05,0.25,-1,-0.7,Loss,1,0
+Juventus,2025-05-04,Bologna,Away,Matchweek 35,1,1,0.8,0.8,0.2,0.2,6,2,33.3,0.17,0.5,0,0.2,Draw,5.661,0
+Manchester Utd,2025-05-04,Brentford,Away,Matchweek 35,3,4,1.5,1.5,1.5,1.5,14,5,35.7,0.21,0.6,-1,1.5,Loss,7.497,0
+Liverpool,2025-05-04,Chelsea,Away,Matchweek 35,1,3,1,1,0,0,11,2,18.2,0.09,0.5,-2,0,Loss,1.638,0
+Tottenham,2025-05-04,West Ham,Away,Matchweek 35,1,1,0.8,0.8,0.2,0.2,7,2,28.6,0.14,0.5,0,0.2,Draw,4.004,0
+Chelsea,2025-05-04,Liverpool,Home,Matchweek 35,3,1,3.1,2.3,-1.1,-1.3,16,5,31.3,0.06,0.2,2,-0.1,Win,1.878,0
+Real Madrid,2025-05-04,Celta Vigo,Home,Matchweek 34,3,2,2.2,2.2,0.8,0.8,17,6,35.3,0.18,0.5,1,0.8,Win,6.354,0.8
+Milan,2025-05-05,Genoa,Away,Matchweek 35,2,1,1,1,0,0,10,5,50,0.1,0.2,1,1,Win,5,1
+Milan,2025-05-09,Bologna,Home,Matchweek 36,3,1,1.6,1.6,1.4,1.4,10,5,50,0.3,0.6,2,1.4,Win,15,1.4
+Juventus,2025-05-10,Lazio,Away,Matchweek 36,1,1,0.8,0.8,0.2,0.2,8,2,25,0.13,0.5,0,0.2,Draw,3.25,0
+PSG,2025-05-10,Montpellier,Away,Matchweek 33,4,1,1.7,0.9,2.3,2.1,9,7,77.8,0.33,0.43,3,2.3,Win,25.674,2.3
+Manchester City,2025-05-10,Southampton,Away,Matchweek 36,0,0,1.7,1.7,-1.7,-1.7,26,4,15.4,0,0,0,-1.7,Draw,0,0
+Atletico Madrid,2025-05-10,Real Sociedad,Home,Matchweek 35,4,0,1.4,1.4,2.6,2.6,13,7,53.8,0.31,0.57,4,2.6,Win,16.678,2.6
+Bayern Munich,2025-05-10,Gladbach,Home,Matchweek 33,2,0,2.5,2.5,-0.5,-0.5,24,9,37.5,0.08,0.22,2,-0.5,Win,3,0
+Barcelona,2025-05-11,Real Madrid,Home,Matchweek 35,4,3,4.2,4.2,-0.2,-0.2,23,9,39.1,0.17,0.44,1,-0.2,Win,6.647,0
+Inter,2025-05-11,Torino,Away,Matchweek 36,2,0,2.5,1.7,-0.5,-0.7,11,6,54.5,0.09,0.17,2,-0.5,Win,4.905,0
+Manchester Utd,2025-05-11,West Ham,Home,Matchweek 36,0,2,2.1,2.1,-2.1,-2.1,20,5,25,0,0,-2,-2.1,Loss,0,0
+Chelsea,2025-05-11,Newcastle Utd,Away,Matchweek 36,0,2,0.7,0.7,-0.7,-0.7,10,3,30,0,0,-2,-0.7,Loss,0,0
+Liverpool,2025-05-11,Arsenal,Home,Matchweek 36,2,2,2.4,2.4,-0.4,-0.4,14,5,35.7,0.14,0.4,0,-0.4,Draw,4.998,0
+Real Madrid,2025-05-11,Barcelona,Away,Matchweek 35,3,4,2.7,1.9,0.3,0.1,8,4,50,0.25,0.5,-1,0.3,Loss,12.5,0
+Arsenal,2025-05-11,Liverpool,Away,Matchweek 36,2,2,2.6,2.6,-0.6,-0.6,15,6,40,0.13,0.33,0,-0.6,Draw,5.2,0
+Tottenham,2025-05-11,Crystal Palace,Home,Matchweek 36,0,2,0.7,0.7,-0.7,-0.7,8,1,12.5,0,0,-2,-0.7,Loss,0,0
+Napoli,2025-05-11,Genoa,Home,Matchweek 36,2,2,1.7,1.7,0.3,0.3,22,10,45.5,0.09,0.2,0,0.3,Draw,4.095,0
+Real Madrid,2025-05-14,Mallorca,Home,Matchweek 36,2,1,2.6,2.6,-0.6,-0.6,39,12,30.8,0.05,0.17,1,-0.6,Win,1.54,0
+Barcelona,2025-05-15,Espanyol,Away,Matchweek 36,2,0,0.6,0.6,1.4,1.4,12,4,33.3,0.17,0.5,2,1.4,Win,5.661,1.4
+Atletico Madrid,2025-05-15,Osasuna,Away,Matchweek 36,0,2,1.4,1.4,-1.4,-1.4,9,5,55.6,0,0,-2,-1.4,Loss,0,0
+Chelsea,2025-05-16,Manchester Utd,Home,Matchweek 37,1,0,0.8,0.8,0.2,0.2,11,3,27.3,0.09,0.33,1,0.2,Win,2.457,0.2
+Manchester Utd,2025-05-16,Chelsea,Away,Matchweek 37,0,1,0.3,0.3,-0.3,-0.3,4,1,25,0,0,-1,-0.3,Loss,0,0
+Tottenham,2025-05-16,Aston Villa,Away,Matchweek 37,0,2,0.5,0.5,-0.5,-0.5,3,1,33.3,0,0,-2,-0.5,Loss,0,0
+PSG,2025-05-17,Auxerre,Home,Matchweek 34,3,1,3.1,2.3,-0.1,0.7,20,8,40,0.15,0.38,2,-0.1,Win,6,0
+Bayern Munich,2025-05-17,Hoffenheim,Away,Matchweek 34,4,0,1.4,1.4,2.6,2.6,14,5,35.7,0.29,0.8,4,2.6,Win,10.353,2.6
+Inter,2025-05-18,Lazio,Home,Matchweek 37,2,2,1.1,1.1,0.9,0.9,10,3,30,0.2,0.67,0,0.9,Draw,6,0
+Atletico Madrid,2025-05-18,Betis,Home,Matchweek 37,4,1,4.8,4.8,-0.8,-0.8,20,11,55,0.2,0.36,3,-0.8,Win,11,0
+Milan,2025-05-18,Roma,Away,Matchweek 37,1,3,1.4,1.4,-0.4,-0.4,12,3,25,0.08,0.33,-2,-0.4,Loss,2,0
+Barcelona,2025-05-18,Villarreal,Home,Matchweek 37,2,3,1.4,1.4,0.6,0.6,24,9,37.5,0.08,0.22,-1,0.6,Loss,3,0
+Real Madrid,2025-05-18,Sevilla,Away,Matchweek 37,2,0,2,2,0,0,16,6,37.5,0.13,0.33,2,0,Win,4.875,0
+Juventus,2025-05-18,Udinese,Home,Matchweek 37,2,0,1.8,1.8,0.2,0.2,24,7,29.2,0.08,0.29,2,0.2,Win,2.336,0.2
+Arsenal,2025-05-18,Newcastle Utd,Home,Matchweek 37,1,0,0.6,0.6,0.4,0.4,12,4,33.3,0.08,0.25,1,0.4,Win,2.664,0.4
+Napoli,2025-05-18,Parma,Away,Matchweek 37,0,0,0.4,0.4,-0.4,-0.4,7,2,28.6,0,0,0,-0.4,Draw,0,0
+Liverpool,2025-05-19,Brighton,Away,Matchweek 37,2,3,2.2,2.2,-0.2,-0.2,18,5,27.8,0.11,0.4,-1,-0.2,Loss,3.058,0
+Manchester City,2025-05-20,Bournemouth,Home,Matchweek 37,3,1,1.5,1.5,1.5,1.5,12,5,41.7,0.25,0.6,2,1.5,Win,10.425,1.5
+Inter,2025-05-23,Como,Away,Matchweek 38,2,0,1.4,1.4,0.6,0.6,11,6,54.5,0.18,0.33,2,0.6,Win,9.81,0.6
+Napoli,2025-05-23,Cagliari,Home,Matchweek 38,2,0,2.4,2.4,-0.4,-0.4,18,6,33.3,0.11,0.33,2,-0.4,Win,3.663,0
+Real Madrid,2025-05-24,Real Sociedad,Home,Matchweek 38,2,0,2.6,1.6,-0.6,0.4,15,7,46.7,0.13,0.29,2,-0.6,Win,6.071,0
+Milan,2025-05-24,Monza,Home,Matchweek 38,2,0,1.5,1.5,0.5,0.5,21,6,28.6,0.1,0.33,2,0.5,Win,2.86,0.5
+Barcelona,2025-05-25,Athletic Club,Away,Matchweek 38,3,0,3.5,2.7,-0.5,-0.7,12,3,25,0.17,0.67,3,-0.5,Win,4.25,0
+Chelsea,2025-05-25,Nott'ham Forest,Away,Matchweek 38,1,0,1.1,1.1,-0.1,-0.1,6,2,33.3,0.17,0.5,1,-0.1,Win,5.661,0
+Atletico Madrid,2025-05-25,Girona,Away,Matchweek 38,4,0,2.7,2.7,1.3,1.3,19,11,57.9,0.21,0.36,4,1.3,Win,12.159,1.3
+Liverpool,2025-05-25,Crystal Palace,Home,Matchweek 38,1,1,2.1,2.1,-1.1,-1.1,14,3,21.4,0.07,0.33,0,-1.1,Draw,1.498,0
+Arsenal,2025-05-25,Southampton,Away,Matchweek 38,2,1,2.3,2.3,-0.3,-0.3,23,7,30.4,0.09,0.29,1,-0.3,Win,2.736,0
+Tottenham,2025-05-25,Brighton,Home,Matchweek 38,1,4,2,1.2,-1,-1.2,3,1,33.3,0,0,-3,-1,Loss,0,0
+Manchester City,2025-05-25,Fulham,Away,Matchweek 38,2,0,3,2.2,-1,-1.2,19,4,21.1,0.05,0.25,2,-1,Win,1.055,0
+Manchester Utd,2025-05-25,Aston Villa,Home,Matchweek 38,2,0,2.9,2.1,-0.9,-1.1,25,9,36,0.04,0.11,2,-0.9,Win,1.44,0
+Juventus,2025-05-25,Venezia,Away,Matchweek 38,3,2,1.9,1.2,1.1,0.8,14,4,28.6,0.14,0.5,1,1.1,Win,4.004,1.1
