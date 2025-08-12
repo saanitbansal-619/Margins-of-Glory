@@ -3,15 +3,6 @@
   <img src="banner.png" alt="Margins of Glory Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="images/banner.png" alt="Margins of Glory" width="100%">
-</p>
-
-<h1 align="center">⚽ Margins of Glory</h1>
-<p align="center">
-  <i>Advanced Football Analytics — Where matches are won and lost in the tiniest margins.</i>
-</p>
-
 ---
 
 ## 🚀 Live Demo  
@@ -30,17 +21,21 @@
 
 ## 📂 Project Structure
 Margins-of-Glory/
-├── output data/
+│
+├── output_data/
 │ ├── AllTeams_Cleaned.csv
 │ ├── AllTeams_FeatureEngineering.csv
+│
 ├── Football_Analytics_Feature_Engineering.ipynb
-├── Margins of Glory.twbx
+├── Margins_of_Glory.twbx
+│
 ├── images/
 │ ├── banner.png
 │ ├── FineLine.png
 │ ├── GameDynamics.png
+│
 ├── README.md
-└── requirements.txt
+├── requirements.txt
 
 ---
 
