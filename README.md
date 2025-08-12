@@ -1,36 +1,70 @@
-<!-- HEADER -->
-<p align="center" style="background-color:#0a192f;padding:20px;border-radius:10px;">
-  <h1 style="color:#00ffff;font-family:Montserrat;font-weight:800;letter-spacing:2px;">MARGINS OF GLORY</h1>
-  <h3 style="color:#00ffff;font-family:Montserrat;font-weight:400;margin-top:10px;">A Football (Soccer) Analytics Project</h3>
-  <p>
-    <a href="mailto:sb9300@nyu.edu" style="color:#00ffff;text-decoration:none;">📧 Email</a> |
-    <a href="https://github.com/saanitbansal-619" style="color:#00ffff;text-decoration:none;">💻 GitHub</a> |
-    <a href="https://www.linkedin.com/in/saanit-bansal-681874293" style="color:#00ffff;text-decoration:none;">🔗 LinkedIn</a> |
-    <a href="https://public.tableau.com/views/MarginsofGlory/MARGINSOFGLORY?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" style="color:#00ffff;text-decoration:none;">📊 Tableau Dashboard</a>
-  </p>
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Margins of Glory Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/banner.png" alt="Margins of Glory" width="100%">
+</p>
+
+<h1 align="center">⚽ Margins of Glory</h1>
+<p align="center">
+  <i>Advanced Football Analytics — Where matches are won and lost in the tiniest margins.</i>
 </p>
 
 ---
 
-## 📌 Overview
-Margins of Glory is a football analytics project exploring advanced metrics such as **Clutch xG, xG Overperformance, and Finishing Efficiency**, alongside creative vs. finishing profiling for top teams.
+## 🚀 Live Demo  
+📊 [**View Full Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/MarginsofGlory/MARGINSOFGLORY?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
-## 📊 Tableau Dashboard
-Explore the full interactive dashboard here:  
-[**View on Tableau Public**](https://public.tableau.com/views/MarginsofGlory/MARGINSOFGLORY?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## ✨ Key Features  
+- ⚡ **Clutch xG** — Performance under pressure (75+ mins, close scorelines)  
+- 📈 **xG Overperformance** — Detecting teams punching above their weight  
+- 🎯 **Finishing Efficiency** — Measuring clinical edge with Goals/xG  
+- 🖌 **Creativity vs Finishing Map** — Playmaking vs goalscoring tendencies  
+- 📊 **Game Dynamics** — Momentum shifts & fine margins  
 
 ---
 
-## 📂 Contents
-- `Football_Analytics_Feature_Engineering.ipynb` – Core Python notebook with data cleaning, aggregation, and visualization.
-- `data/` – Match & team data (CSV files, if included).
-- `README.md` – Project overview and instructions.
+## 📂 Project Structure
+Margins-of-Glory/
+├── output data/
+│ ├── AllTeams_Cleaned.csv
+│ ├── AllTeams_FeatureEngineering.csv
+├── Football_Analytics_Feature_Engineering.ipynb
+├── Margins of Glory.twbx
+├── images/
+│ ├── banner.png
+│ ├── FineLine.png
+│ ├── GameDynamics.png
+├── README.md
+└── requirements.txt
 
 ---
 
-## ⚙️ Requirements
-Install dependencies:
+## 🖼 Dashboard Previews  
+
+| Fine Line Analysis | Game Dynamics |
+|--------------------|---------------|
+| ![Fine Line](images/FineLine.png) | ![Game Dynamics](images/GameDynamics.png) |
+
+---
+
+## ⚙️ Quick Start
+
+### View Only
+No setup — just click the Tableau Public link above.
+
+### Local Setup
 ```bash
+# Clone the repository
+git clone https://github.com/USERNAME/margins-of-glory.git
+cd margins-of-glory
+
+# Install Python dependencies
 pip install -r requirements.txt
+
+# Run Jupyter Notebook
+jupyter notebook Football_Analytics_Feature_Engineering.ipynb
