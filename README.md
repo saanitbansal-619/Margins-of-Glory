@@ -43,18 +43,6 @@ This project dives deep into the **2024–25 European football season** — engi
 
 ---
 
-## 📂 Project Structure
-```plaintext
-├── images/                               # Screenshots & banner
-├── output data/                          # Cleaned CSV outputs
-├── Football_Analytics_Feature_Engineering.ipynb  # Python notebook for analysis
-├── Margins of Glory.twbx                 # Tableau workbook
-├── README.md
-├── requirements.txt
-└── LICENSE
-
----
-
 ## ⚙️ Setup & Usage
 
 #### 1. Clone the repository
