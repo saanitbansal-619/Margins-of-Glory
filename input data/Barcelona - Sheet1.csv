@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Match Report
+2024-08-17,21:30 (01:00),Matchweek 1,Sat,Away,W,2,1,Valencia,2,17,5,29.4,0.06,0.2,18.6,1,1,1,3.2,2.4,0.14,-1.2,-1.4,Match Report
+2024-08-24,19:00 (22:30),Matchweek 2,Sat,Home,W,2,1,Athletic Club,2,13,5,38.5,0.15,0.4,16.6,0,0,0,1.8,1.8,0.14,0.2,0.2,Match Report
+2024-08-27,21:30 (01:00),Matchweek 3,Tue,Away,W,2,1,Rayo Vallecano,2,22,5,22.7,0.09,0.4,19.3,1,0,0,1.4,1.4,0.06,0.6,0.6,Match Report
+2024-08-31,17:00 (20:30),Matchweek 4,Sat,Home,W,7,0,Valladolid,7,23,11,47.8,0.3,0.64,13.7,1,0,0,4.7,4.7,0.21,2.3,2.3,Match Report
+2024-09-15,16:15 (19:45),Matchweek 5,Sun,Away,W,4,1,Girona,4,20,9,45,0.2,0.44,19.1,0,0,0,1.9,1.9,0.09,2.1,2.1,Match Report
+2024-09-22,18:30 (22:00),Matchweek 6,Sun,Away,W,5,1,Villarreal,5,16,9,56.3,0.31,0.56,14.6,0,0,1,3.9,3.2,0.21,1.1,1.8,Match Report
+2024-09-25,21:00 (00:30),Matchweek 7,Wed,Home,W,1,0,Getafe,1,15,4,26.7,0.07,0.25,19.1,2,0,0,1.9,1.9,0.13,-0.9,-0.9,Match Report
+2024-09-28,21:00 (00:30),Matchweek 8,Sat,Away,L,2,4,Osasuna,2,12,6,50,0.17,0.33,19.8,1,0,0,0.8,0.8,0.07,1.2,1.2,Match Report
+2024-10-06,16:15 (19:45),Matchweek 9,Sun,Away,W,3,0,Alavés,3,15,9,60,0.2,0.33,16.8,1,0,0,2.7,2.7,0.18,0.3,0.3,Match Report
+2024-10-20,21:00 (00:30),Matchweek 10,Sun,Home,W,5,1,Sevilla,5,20,8,40,0.2,0.5,17.9,1,1,1,3.8,3.1,0.16,1.2,0.9,Match Report
+2024-10-26,21:00 (00:30),Matchweek 11,Sat,Away,W,4,0,Real Madrid,4,15,7,46.7,0.27,0.57,21.7,0,0,0,2.6,2.6,0.17,1.4,1.4,Match Report
+2024-11-03,16:15 (20:45),Matchweek 12,Sun,Home,W,3,1,Espanyol,3,14,9,64.3,0.21,0.33,19.2,0,0,0,1.8,1.8,0.13,1.2,1.2,Match Report
+2024-11-10,21:00 (01:30),Matchweek 13,Sun,Away,L,0,1,Real Sociedad,0,11,0,0,0,,17.6,0,0,0,0.7,0.7,0.06,-0.7,-0.7,Match Report
+2024-11-23,21:00 (01:30),Matchweek 14,Sat,Away,D,2,2,Celta Vigo,2,9,4,44.4,0.22,0.5,17.3,0,0,0,1.8,1.8,0.2,0.2,0.2,Match Report
+2024-11-30,14:00 (18:30),Matchweek 15,Sat,Home,L,1,2,Las Palmas,1,27,8,29.6,0.04,0.13,17.1,2,0,0,2.3,2.3,0.09,-1.3,-1.3,Match Report
+2024-12-03,19:00 (23:30),Matchweek 19,Tue,Away,W,5,1,Mallorca,5,19,8,42.1,0.21,0.5,17.1,1,1,1,5,4.2,0.23,0,-0.2,Match Report
+2024-12-07,16:15 (20:45),Matchweek 16,Sat,Away,D,2,2,Betis,2,9,3,33.3,0.22,0.67,14.5,0,0,0,1.9,1.9,0.21,0.1,0.1,Match Report
+2024-12-15,21:00 (01:30),Matchweek 17,Sun,Home,L,0,1,Leganés,0,20,3,15,0,0,16.4,1,0,0,2.6,2.6,0.13,-2.6,-2.6,Match Report
+2024-12-21,21:00 (01:30),Matchweek 18,Sat,Home,L,1,2,Atlético Madrid,1,19,7,36.8,0.05,0.14,15,1,0,0,2.7,2.7,0.14,-1.7,-1.7,Match Report
+2025-01-18,21:00 (01:30),Matchweek 20,Sat,Away,D,1,1,Getafe,1,21,5,23.8,0.05,0.2,17.1,1,0,0,2.3,2.3,0.12,-1.3,-1.3,Match Report
+2025-01-26,21:00 (01:30),Matchweek 21,Sun,Home,W,7,1,Valencia,6,22,11,50,0.27,0.55,16.2,0,0,0,4.4,4.4,0.21,1.6,1.6,Match Report
+2025-02-02,14:00 (18:30),Matchweek 22,Sun,Home,W,1,0,Alavés,1,11,4,36.4,0.09,0.25,18.2,0,0,0,1,1,0.09,0,0,Match Report
+2025-02-09,21:00 (01:30),Matchweek 23,Sun,Away,W,4,1,Sevilla,4,10,6,60,0.4,0.67,14.4,0,0,0,1.9,1.9,0.19,2.1,2.1,Match Report
+2025-02-17,21:00 (01:30),Matchweek 24,Mon,Home,W,1,0,Rayo Vallecano,1,13,4,30.8,0,0,12.6,0,1,1,2.3,1.6,0.12,-1.3,-1.6,Match Report
+2025-02-22,20:00 (01:30),Matchweek 25,Sat,Away,W,2,0,Las Palmas,2,15,5,33.3,0.13,0.4,16.4,3,0,0,1.4,1.4,0.09,0.6,0.6,Match Report
+2025-03-02,16:15 (20:45),Matchweek 26,Sun,Home,W,4,0,Real Sociedad,4,33,10,30.3,0.12,0.4,17.5,2,0,0,2.8,2.8,0.09,1.2,1.2,Match Report
+2025-03-16,21:00 (01:30),Matchweek 28,Sun,Away,W,4,2,Atlético Madrid,4,13,6,46.2,0.31,0.67,17.5,0,0,0,1.3,1.3,0.1,2.7,2.7,Match Report
+2025-03-27,21:00 (01:30),Matchweek 27,Thu,Home,W,3,0,Osasuna,3,18,4,22.2,0.11,0.5,16.5,1,1,1,3.7,2.9,0.16,-0.7,-0.9,Match Report
+2025-03-30,16:15 (19:45),Matchweek 29,Sun,Home,W,4,1,Girona,3,21,9,42.9,0.14,0.33,16,0,0,0,2.3,2.3,0.11,0.7,0.7,Match Report
+2025-04-05,21:00 (00:30),Matchweek 30,Sat,Home,D,1,1,Betis,1,13,5,38.5,0.08,0.2,16.9,1,0,0,1.4,1.4,0.11,-0.4,-0.4,Match Report
+2025-04-12,21:00 (00:30),Matchweek 31,Sat,Away,W,1,0,Leganés,0,12,3,25,0,0,13.8,1,0,0,1.4,1.4,0.11,-1.4,-1.4,Match Report
+2025-04-19,16:15 (19:45),Matchweek 32,Sat,Home,W,4,3,Celta Vigo,4,17,5,29.4,0.18,0.6,18.5,1,1,1,2.9,2.1,0.12,1.1,0.9,Match Report
+2025-04-22,21:30 (01:00),Matchweek 33,Tue,Home,W,1,0,Mallorca,1,40,12,30,0.03,0.08,17.1,0,0,0,3.3,3.3,0.09,-2.3,-2.3,Match Report
+2025-05-03,21:00 (00:30),Matchweek 34,Sat,Away,W,2,1,Valladolid,2,24,6,25,0.08,0.33,17.4,3,0,0,1.9,1.9,0.08,0.1,0.1,Match Report
+2025-05-11,16:15 (19:45),Matchweek 35,Sun,Home,W,4,3,Real Madrid,4,23,9,39.1,0.17,0.44,16.3,0,0,0,4.2,4.2,0.19,-0.2,-0.2,Match Report
+2025-05-15,21:30 (01:00),Matchweek 36,Thu,Away,W,2,0,Espanyol,2,12,4,33.3,0.17,0.5,18.1,0,0,0,0.6,0.6,0.05,1.4,1.4,Match Report
+2025-05-18,19:00 (22:30),Matchweek 37,Sun,Home,L,2,3,Villarreal,2,24,9,37.5,0.08,0.22,20.4,1,0,0,1.4,1.4,0.06,0.6,0.6,Match Report
+2025-05-25,21:00 (00:30),Matchweek 38,Sun,Away,W,3,0,Athletic Club,3,12,3,25,0.17,0.67,16.3,0,1,1,3.5,2.7,0.23,-0.5,-0.7,Match Repor
