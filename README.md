@@ -53,6 +53,8 @@ This project dives deep into the **2024–25 European football season** — engi
 ├── requirements.txt
 └── LICENSE
 
+---
+
 ## ⚙️ Setup & Usage
 
 #### 1. Clone the repository
@@ -73,6 +75,8 @@ jupyter notebook Football_Analytics_Feature_Engineering.ipynb
 -Load Margins of Glory.twbx in Tableau Desktop
 -Or explore it online via Tableau Public link above (maximize for better interaction and visuals).
 
+---
+
 ## 🧠 Key Learnings
 
 -Translating raw football data into meaningful performance metrics.
@@ -80,8 +84,12 @@ jupyter notebook Football_Analytics_Feature_Engineering.ipynb
 -Blending Python analytics with Tableau storytelling.
 -Designing dashboards that balance aesthetics with clarity.
 
+---
+
 ## 📜 License
 This project is licensed under the MIT License – feel free to fork and build upon it.
+
+---
 
 ## ✨ Author
 **Saanit Bansal**
