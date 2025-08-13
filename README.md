@@ -44,20 +44,20 @@ This project dives deep into the **2024–25 European football season** — engi
 ---
 
 ## ⚙️ Setup & Usage
-1. Clone the repository
-'''
+1. **Clone the repository**
+```bash
 git clone https://github.com/yourusername/football-analytics-feature-engineering.git
 cd football-analytics-feature-engineering
-'''
-2. Install dependencies
-'''
+```
+2. **Install dependencies**
+```bash
 pip install -r requirements.txt
-'''
-3. Run the notebook
-'''
+```
+3. **Run the notebook**
+```bash
 jupyter notebook Football_Analytics_Feature_Engineering.ipynb
-'''
-4. Open Tableau dashboard
+```
+4. **Open Tableau dashboard**
 - Load Margins of Glory.twbx in Tableau Desktop
 - Or explore it online via Tableau Public link above (maximize for better interaction and visuals).
 
