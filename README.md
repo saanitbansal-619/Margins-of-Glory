@@ -46,27 +46,22 @@ This project dives deep into the **2024–25 European football season** — engi
 ## ⚙️ Setup & Usage
 
 #### 1. Clone the repository
-
 git clone https://github.com/yourusername/football-analytics-feature-engineering.git
 cd football-analytics-feature-engineering
 
 #### 2. Install dependencies
-
 pip install -r requirements.txt
 
 #### 3. Run the notebook
-
 jupyter notebook Football_Analytics_Feature_Engineering.ipynb
 
 #### 4. Open Tableau dashboard
-
 -Load Margins of Glory.twbx in Tableau Desktop
 -Or explore it online via Tableau Public link above (maximize for better interaction and visuals).
 
 ---
 
 ## 🧠 Key Learnings
-
 -Translating raw football data into meaningful performance metrics.
 -Using feature engineering to create custom KPIs.
 -Blending Python analytics with Tableau storytelling.
@@ -81,6 +76,6 @@ This project is licensed under the MIT License – feel free to fork and build u
 
 ## ✨ Author
 **Saanit Bansal**
-📧 **[Email](saanit1t5bansal@gmail.com)**
+📧 **[saanit1t5bansal@gmail.com]**
 💼 **[LinkedIn](https://www.linkedin.com/in/saanit-bansal-681874293)**
 🐙 **[GitHub](https://github.com/saanitbansal-619)**
