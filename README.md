@@ -1,107 +1,90 @@
-<!-- PROJECT BANNER -->
-<p align="center">
-  <img src="images/banner.png" alt="Margins of Glory Banner" width="100%">
-</p>
+# ⚽ Margins of Glory: Football Analytics & Feature Engineering
 
-<!-- TITLE -->
-<h1 align="center">MARGINS OF GLORY ⚽📊</h1>
-<p align="center">
-  <em>A Football (Soccer) Analytics Project — Blending Data Science, Match Dynamics & Performance Insights</em>
-</p>
+![Project Banner](images/banner.png)
 
-<!-- BADGES -->
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter"></a>
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-Data%20Viz-005B96?style=for-the-badge&logo=tableau"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"></a>
-</p>
+> **"Because in football, it's the fine margins that decide glory."**  
+
+This project dives deep into the **2024–25 European football season** — engineering features, analyzing performance trends, and building **interactive Tableau dashboards** to visualize the story behind the stats.
 
 ---
 
 ## 📌 Overview
-**Margins of Glory** is a comprehensive football analytics project built from scratch, designed to uncover *hidden performance edges* that decide matches.
-
-We go **beyond basic stats** like goals, assists, or possession. Instead, we engineer advanced metrics like:
-
-- **Clutch xG** → Expected goals in critical match moments.
-- **xG Overperformance** → How clinical a team is compared to the quality of chances.
-- **Finishing Efficiency** → Ratio of goals scored vs. xG created.
-- **Game Momentum Analysis** → Flow of performance during a match.
-- **Creativity vs. Finishing Matrix** → Profiling team styles.
-
-This project **merges data science with sports intelligence**, producing insights fit for clubs, analysts, and passionate fans alike.
+- **Objective:** Understand how small statistical edges translate into big results for elite football clubs.  
+- **Scope:** Data processing in Python + advanced visualizations in Tableau.  
+- **Key Tools:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `Tableau`.  
 
 ---
 
-## 🎯 Objectives
-1. **Clean & Structure Data** → Transform raw match data into analysis-ready formats.
-2. **Engineer Advanced Metrics** → Quantify game-winning edges with custom KPIs.
-3. **Visualize Insights** → Use Tableau dashboards for interactive storytelling.
-4. **Build Reusable Framework** → So future seasons or leagues can be plugged in easily.
+## 🚀 Features
+- **Data Engineering:** Cleaned and transformed match & player data into a structured analytics-ready format.
+- **Exploratory Analysis:** Identified trends in goals, assists, possession, and shot quality.
+- **Custom Metrics:** Built metrics like **Clutch xG** & **Finishing Efficiency**.
+- **Interactive Dashboards:** Multiple Tableau views for team metrics and featured insights.
+- **Exportable Insights:** Ready-to-use CSV outputs for further modeling.
+
+---
+
+## 📊 Dashboards
+
+### 1️⃣ Fine Line: 24/25
+![Fine Line Dashboard](images/FineLine.png)
+**Highlights:**
+- Comparative analysis of top clubs  
+- Shot conversion rates, possession trends  
+- Club logos and clean visual branding  
+
+### 2️⃣ Game Dynamics: 24/25
+![Game Dynamics Dashboard](images/GameDynamics.png)
+**Highlights:**
+- Pressure situations & clutch performance  
+- Advanced KPIs to identify match-deciding moments  
+
+🔗 **[View on Tableau Public](https://public.tableau.com/views/MarginsofGlory/MARGINSOFGLORY?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
 ## 📂 Project Structure
-Margins-of-Glory/
-│── output data/
-│ ├── AllTeams_Cleaned.csv
-│ ├── AllTeams_FeatureEngineering.csv
-│
-│── Football_Analytics_Feature_Engineering.ipynb
-│── Margins of Glory.twbx
-│
-│── images/
-│ ├── banner.png
-│ ├── FineLine.png
-│ ├── GameDynamics.png
-│
-│── README.md
-│── requirements.txt
+```plaintext
+├── images/                               # Screenshots & banner
+├── output data/                          # Cleaned CSV outputs
+├── Football_Analytics_Feature_Engineering.ipynb  # Python notebook for analysis
+├── Margins of Glory.twbx                 # Tableau workbook
+├── README.md
+├── requirements.txt
+└── LICENSE
 
+## ⚙️ Setup & Usage
 
----
+#### 1. Clone the repository
 
-## 🔍 Data & Methodology
+git clone https://github.com/yourusername/football-analytics-feature-engineering.git
+cd football-analytics-feature-engineering
 
-### 1️⃣ Data Cleaning
-- Removed missing values, inconsistent naming conventions.
-- Standardized metrics for uniform comparison.
-- Aggregated team-level performance from match-level data.
-
-### 2️⃣ Feature Engineering
-Created **custom metrics**:
-- `Clutch_xG` → xG during last 15 mins when score is level or within 1 goal.
-- `Finishing_Efficiency` → Goals Scored / xG.
-- `Creativity_Score` → Progressive passes + Key passes weighted.
-- `xG_Overperformance` → (Goals – xG) / xG.
-
-### 3️⃣ Visualization
-- **Tableau dashboards** for match flow, team styles, and league-wide trends.
-- Comparative scatter plots: Creativity vs Finishing, Momentum timelines.
-
----
-
-## 📊 Key Insights
-- **Clinical Finishing** correlates strongly with league position in tight leagues.
-- Some mid-table teams create massive chances but lack finishing precision.
-- Momentum shifts often occur after substitutions — crucial for tactical analysis.
-- Clutch xG leaders often overperform in knockout competitions.
-
----
-
-## 🖥️ Installation & Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/Margins-of-Glory.git
-cd Margins-of-Glory
-
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+#### 2. Install dependencies
 
 pip install -r requirements.txt
 
+#### 3. Run the notebook
+
 jupyter notebook Football_Analytics_Feature_Engineering.ipynb
 
+#### 4. Open Tableau dashboard
+
+-Load Margins of Glory.twbx in Tableau Desktop
+-Or explore it online via Tableau Public link above (maximize for better interaction and visuals).
+
+## 🧠 Key Learnings
+
+-Translating raw football data into meaningful performance metrics.
+-Using feature engineering to create custom KPIs.
+-Blending Python analytics with Tableau storytelling.
+-Designing dashboards that balance aesthetics with clarity.
+
+## 📜 License
+This project is licensed under the MIT License – feel free to fork and build upon it.
+
+## ✨ Author
+**Saanit Bansal**
+📧 **[Email](saanit1t5bansal@gmail.com)**
+💼 **[LinkedIn](https://www.linkedin.com/in/saanit-bansal-681874293)**
+🐙 **[GitHub](https://github.com/saanitbansal-619)**
