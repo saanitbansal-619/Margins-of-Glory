@@ -179,3 +179,25 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data
+*.zip
+*.tar
+*.tar.gz
+
+# Tableau autosaves
+*.twb~ 
