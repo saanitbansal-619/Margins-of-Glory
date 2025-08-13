@@ -10,7 +10,7 @@ This project dives deep into the **2024–25 European football season** — engi
 - **Objective:** Understand how small statistical edges translate into big results for elite football clubs.  
 - **Scope:** Data processing in Python + advanced visualizations in Tableau.  
 - **Key Tools:** `pandas`, `numPy`, `matplotlib`, `seaborn`, `Tableau`.  
-
+- **Future Scope:** Adding some ML features.
 ---
 
 ## 🚀 Features
