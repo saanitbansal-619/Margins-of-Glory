@@ -109,6 +109,6 @@ This project is licensed under the MIT License – feel free to fork and build u
 
 ## ✨ Author
 **Saanit Bansal**
-- 📧 **[saanit1t5bansal@gmail.com]**
+- 📧 **[saanit1t5bansal@gmail.com](saanit1t5bansal@gmail.com)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/saanit-bansal-681874293)**
 - 🐙 **[GitHub](https://github.com/saanitbansal-619)**
